@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2019-05-01"
   date_end = ""
-  description = """Work on regional study about fiscal policy in LAC."""
+  description = """Work on intergenerational socioeconomic mobility."""
 
 [[experience]]
   title = "Research associate"
