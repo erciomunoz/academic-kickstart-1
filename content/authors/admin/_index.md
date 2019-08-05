@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied econometrics, financial economics, political economy, and socioeconomic inequality.
+bio: My research interests include applied econometrics, political economy, and socioeconomic inequality.
 
 interests:
 - Applied Econometrics
