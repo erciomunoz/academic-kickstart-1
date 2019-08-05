@@ -36,7 +36,7 @@ in inequality in the former sector accompanied by an reduction in inequality in 
 the region.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ""
 
 tags:
 - Source Themes
