@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Introduction to macroeconomics"
-  company = "Universidad de Santiago"
+  company = ""
   company_url = ""
   location = "Universidad de Santiago"
   date_start = "2014-03-01"
