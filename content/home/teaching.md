@@ -13,11 +13,11 @@ subtitle = ""
 date_format = "Jan 2006"
 
 # Experiences.
-#   Add/remove as many `[[teaching]]` blocks below as you like.
+#   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[teaching]]
+[[experience]]
   title = "Adjunct Lecturer"
   company = "City College of New York"
   company_url = ""
@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Introduction to econometrics."""
 
-[[teaching]]
+[[experience]]
   title = "Adjunct Lecturer"
   company = "Universidad de Santiago"
   company_url = ""
