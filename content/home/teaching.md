@@ -27,11 +27,12 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Adjunct Lecturer"
+  title = "Introduction to macroeconomics"
   company = "Universidad de Santiago"
   company_url = ""
-  location = "Santiago, Chile"
+  location = "Universidad de Santiago"
   date_start = "2014-03-01"
   date_end = "2014-07-01"
-  description = """Introduction to macroeconomics."""
+  description = """"""
+  
 +++
