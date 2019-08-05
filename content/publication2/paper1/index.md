@@ -1,9 +1,11 @@
 ---
-title: "Do Earthquakes Have an Impact on Inflation in Short Term? Evidence for a sample of countries."
+title: "Inequality in Latin America: Learning from matched employer-employee data."
 authors:
 - admin
-- Alfredo Pistelli
-date: "2010-08-01T00:00:00Z"
+- Graciana Rucci
+- Fernando Saltiel
+- Sergio Urzua
+date: "2018-08-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,16 +15,28 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal the Chilean Economy, 13*(2)"
+publication: "IDB Working Paper 1004"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Inequality in Latin America fell substantially in the early 2000s. In this paper, we take
+advantage of administrative matched employee-employed data in Brazil, Chile and Ecuador to
+examine whether these inequality trends held in the formal sector, as well. We document a
+significant decrease in the log variance of earnings in Brazil and Ecuador in the early 2000s,
+whereas inequality in Chile between 2008 and 2015 remained largely flat. In this context, we
+find that inequality among salaried workers is largely a between-firm phenomenon across these
+three countries. We expand on our descriptive analysis and estimate an additive worker and
+firm fixed effects model to understand the driving factors behind inequality in the region. We
+find a significant decline in between-firm inequality in Brazil and a modest one in Chile. We last
+focus our attention on the commodities and manufacturing sectors, which were directly exposed
+to two large external shocks, the commodity-boom and the “China Shock”. We find an increase
+in inequality in the former sector accompanied by an reduction in inequality in the latter across
+the region.
 
 # Summary. An optional shortened abstract.
-summary: Earthquakes not always generate inflation in the short term.
+summary: 
 
 tags:
 - Source Themes
@@ -31,7 +45,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://si2.bcentral.cl/public/pdf/revista-economia/2010/ago/recv13n2ago2010pp113-127.pdf
+url_pdf: https://publications.iadb.org/publications/english/document/Wage_Inequality_in_Latin_America_Learning_from_Matched_Employer-Employee_Data_en_en.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
