@@ -3,7 +3,7 @@ title: "kmr: A Command to Correct Survey Weights for Unit Nonresponse using Grou
 authors:
 - Salvatore Morelli
 - admin
-date: "2018-08-01T00:00:00Z"
+date: "2019-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,23 +16,24 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IDB Working Paper No 1004*"
+publication: "mimeo"
 publication_short: ""
 
-abstract: Inequality in Latin America fell substantially in the early 2000s. In this paper, we take advantage of administrative matched employee-employed data in Brazil, Chile and Ecuador to examine whether these inequality trends held in the formal sector, as well. We document a significant decrease in the log variance of earnings in Brazil and Ecuador in the early 2000s, whereas inequality in Chile between 2008 and 2015 remained largely flat. In this context, we find that inequality among salaried workers is largely a between-firm phenomenon across these three countries. We expand on our descriptive analysis and estimate an additive worker and firm fixed effects model to understand the driving factors behind inequality in the region. We find a significant decline in between-firm inequality in Brazil and a modest one in Chile. We last focus our attention on the commodities and manufacturing sectors, which were directly exposed to two large external shocks, the commodity-boom and the “China Shock”. We find an increase in inequality in the former sector accompanied by an reduction in inequality in the latter across the region.
+abstract: This article describes kmr, a Stata command to estimate a micro compliance function using group's nonresponse rates (2007, Journal of Econometrics 136: 213-235), which can be used to correct survey weights for unit nonresponse. We illustrate the use of kmr with an empirical example using the Current Population Survey and state-level nonresponse rates.
 
 # Summary. An optional shortened abstract.
-summary: Inequality is a between-firm phenomenon with the commodities and manufacturing sectors having diverging trends.
+summary: How to estimate a micro compliance function using group's nonresponse rates in Stata.
 
 tags:
 - Inequality 
-- LAC
+- Unit nonresponse bias
+- CPS
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://publications.iadb.org/publications/english/document/Wage_Inequality_in_Latin_America_Learning_from_Matched_Employer-Employee_Data_en_en.pdf
+url_pdf: https://erciomunoz.github.io/files/Draft.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
