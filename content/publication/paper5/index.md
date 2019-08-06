@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal the Chilean Economy, 16*(3)"
+publication: "*Journal the Chilean Economy, 16(3)*"
 publication_short: ""
 
 abstract: 
@@ -25,7 +25,9 @@ abstract:
 summary: Stock prices in LAC react to commodity prices' shocks.
 
 tags:
-- Source Themes
+- Commodity prices
+- Stock markets
+- LAC
 featured: false
 
 # links:
