@@ -1,5 +1,5 @@
 ---
-title: "Momentum Effect in the NBA: Exploiting the Fine Line between Winning and Losing"
+title: "Momentum Effects in the NBA: Exploiting the Fine Line between Winning and Losing"
 authors:
 - admin
 - Jiadi Chen
