@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal the Chilean Economy, 16*(1)"
+publication: "*Journal the Chilean Economy, 16(1)*"
 publication_short: ""
 
 abstract: 
@@ -24,7 +24,8 @@ abstract:
 summary: Commodity prices can impact sovereign spreads.
 
 tags:
-- Source Themes
+- Commodity prices
+- Sovereign spreads
 featured: false
 
 # links:
