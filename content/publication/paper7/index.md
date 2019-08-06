@@ -1,5 +1,5 @@
 ---
-title: "Ex-Dividend Date Stock Behavior and the Clientele Effect: Evidence around a Tax Reduction."
+title: "Ex-Dividend Date Stock Behavior and the Clientele Effect: Evidence around a Tax Reduction"
 authors:
 - admin
 - Arturo Rodriguez
