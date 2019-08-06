@@ -1,5 +1,5 @@
 ---
-title: "Unit Nonresponse Bias in the Current Population Survey."
+title: "Unit Nonresponse Bias in the Current Population Survey"
 authors:
 - Salvatore Morelli
 - admin
