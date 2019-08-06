@@ -24,7 +24,7 @@ publication_short: ""
 abstract: Inequality in Latin America fell substantially in the early 2000s. In this paper, we take advantage of administrative matched employee-employed data in Brazil, Chile and Ecuador to examine whether these inequality trends held in the formal sector, as well. We document a significant decrease in the log variance of earnings in Brazil and Ecuador in the early 2000s, whereas inequality in Chile between 2008 and 2015 remained largely flat. In this context, we find that inequality among salaried workers is largely a between-firm phenomenon across these three countries. We expand on our descriptive analysis and estimate an additive worker and firm fixed effects model to understand the driving factors behind inequality in the region. We find a significant decline in between-firm inequality in Brazil and a modest one in Chile. We last focus our attention on the commodities and manufacturing sectors, which were directly exposed to two large external shocks, the commodity-boom and the “China Shock”. We find an increase in inequality in the former sector accompanied by an reduction in inequality in the latter across the region.
 
 # Summary. An optional shortened abstract.
-summary: Inequality is largely a between-firm phenomenon across these three countries.
+summary: Inequality is a between-firm phenomenon with the commodities and manufacturing sectors having diverging trends.
 
 tags:
 - Source Themes
