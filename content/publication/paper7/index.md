@@ -26,7 +26,8 @@ abstract: This study analyzes the behavior of stock prices around the ex-dividen
 summary: The divided tax reduction affected the price drop ratios, consistent with the clienele effect hypothesis.
 
 tags:
-- Source Themes
+- Tax clientele hypothesis
+- Ex-dividend day
 featured: false
 
 # links:
