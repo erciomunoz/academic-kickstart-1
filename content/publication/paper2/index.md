@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal the Chilean Economy, 14*(3)"
+publication: "*Journal the Chilean Economy, 14(3)*"
 publication_short: ""
 
 abstract: 
@@ -26,7 +26,8 @@ abstract:
 summary:  For one-quarter ahead forecasting horizon, time series models are an appropriate choice, while for longer horizons the reduced-form models seem to be the most suitable.
 
 tags:
-- Source Themes
+- Forecasting
+- Copper price
 featured: false
 
 # links:
