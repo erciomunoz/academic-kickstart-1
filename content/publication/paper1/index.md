@@ -1,5 +1,5 @@
 ---
-title: "Do Earthquakes Have an Impact on Inflation in Short Term? Evidence for a sample of countries."
+title: "Do Earthquakes Have an Impact on Inflation in Short Term? Evidence for a sample of countries"
 authors:
 - admin
 - Alfredo Pistelli
