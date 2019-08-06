@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal the Chilean Economy, 13*(2)"
+publication: "*Journal the Chilean Economy, 13(2)*"
 publication_short: ""
 
 abstract: 
@@ -25,7 +25,9 @@ abstract:
 summary: Earthquakes not always generate inflation in the short term.
 
 tags:
-- Source Themes
+- Natural disasters
+- Inflation
+- Earthquakes
 featured: false
 
 # links:
