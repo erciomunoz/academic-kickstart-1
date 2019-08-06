@@ -1,9 +1,9 @@
 ---
-title: "Do Earthquakes Have an Impact on Inflation in Short Term? Evidence for a sample of countries."
+title: "kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates."
 authors:
+- Salvatore Morelli
 - admin
-- Alfredo Pistelli
-date: "2010-08-01T00:00:00Z"
+date: "2019-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,16 +13,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal the Chilean Economy, 13*(2)"
+publication: "**"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This article describes kmr, a Stata command to estimate a micro compliance function using group’s nonresponse rates (2007, Journal of Econometrics 136: 213-235), which can be used to correct survey weights for unit nonresponse. We illustrate the use of kmr with an empirical example using the Current Population Survey and statelevel nonresponse rates.
 
 # Summary. An optional shortened abstract.
-summary: Earthquakes not always generate inflation in the short term.
+summary: How to correct for unit nonresponse bias using group's response rates in Stata. 
 
 tags:
 - Source Themes
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://si2.bcentral.cl/public/pdf/revista-economia/2010/ago/recv13n2ago2010pp113-127.pdf
+url_pdf: https://erciomunoz.github.io/files/Draft.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
