@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: "*mimeo*"
 publication_short: ""
 
-abstract: This article 
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: How to estimate a micro compliance function using groups nonresponse rates in Stata.
+summary: "How to estimate a micro compliance function using group's nonresponse rates in Stata."
 
 tags:
 - Inequality 
