@@ -1,5 +1,5 @@
 ---
-title: "Using a FAVAR Model for Forecasting Copper Prices."
+title: "Using a FAVAR Model for Forecasting Copper Prices"
 authors:
 - Pablo Cruz
 - admin
