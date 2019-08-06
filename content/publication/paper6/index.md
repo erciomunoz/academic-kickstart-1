@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal the Chilean Economy, 17*(3)"
+publication: "*Journal the Chilean Economy, 17(3)*"
 publication_short: ""
 
 abstract: 
@@ -24,7 +24,8 @@ abstract:
 summary: Copper prices react positively to growth surprises in China.
 
 tags:
-- Source Themes
+- China
+- Copper prices
 featured: false
 
 # links:
