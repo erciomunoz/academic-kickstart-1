@@ -27,7 +27,8 @@ abstract: Inequality in Latin America fell substantially in the early 2000s. In 
 summary: Inequality is a between-firm phenomenon with the commodities and manufacturing sectors having diverging trends.
 
 tags:
-- Source Themes
+- Inequality 
+- LAC
 featured: false
 
 # links:
