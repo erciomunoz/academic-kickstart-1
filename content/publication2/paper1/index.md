@@ -1,5 +1,5 @@
 ---
-title: "Inequality in Latin America: Learning from matched employer-employee data."
+title: "Inequality in Latin America: Learning from matched employer-employee data"
 authors:
 - admin
 - Graciana Rucci
