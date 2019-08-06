@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal the Chilean Economy, 15*(3)"
+publication: "*Journal the Chilean Economy, 15(3)*"
 publication_short: ""
 
 abstract: 
@@ -25,7 +25,8 @@ abstract:
 summary: A FAVAR model can beat three simple benchmarks between 1 to 12 months ahead.
 
 tags:
-- Source Themes
+- Forecasting
+- Copper price
 featured: false
 
 # links:
