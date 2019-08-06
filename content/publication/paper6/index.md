@@ -1,5 +1,5 @@
 ---
-title: "The Effect of Growth Surprises in China on the Price of Copper."
+title: "The Effect of Growth Surprises in China on the Price of Copper"
 authors:
 - admin
 date: "2014-12-01T00:00:00Z"
