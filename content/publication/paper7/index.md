@@ -16,11 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Global Finance Journal, 32"
+publication: "*Global Finance Journal, 32*"
 publication_short: ""
 
 abstract: This study analyzes the behavior of stock prices around the ex-dividend date focusing on the effects of a major tax reduction. Using the 40 most heavily traded shares on the Santiago Stock Exchange, the study evaluates price drop ratios using various measures of ex-dividend day prices. The findings indicate that the dividend tax reduction has an effect on the price drop ratio; this result is consistent with the clientele effect hypothesis.
-
 
 # Summary. An optional shortened abstract.
 summary: The divided tax reduction affected the price drop ratios, consistent with the clienele effect hypothesis.
