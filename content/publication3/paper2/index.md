@@ -1,8 +1,9 @@
 ---
-title: "Oil Prices: Geopolitical Tensions and Supply Events"
+title: "Forecast Combination for Oil Prices: Application and Evaluation of Methodologies"
 authors:
-- Eduardo Lopez
 - admin
+- Miguel Ricaurte
+- Mariel Siravegna
 date: "2012-01-01T00:00:00Z"
 doi: ""
 
@@ -16,22 +17,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper N° 680, 2012, Central Bank of Chile*"
+publication: "*Working Paper N° 660, 2012, Central Bank of Chile*"
 publication_short: ""
 
-abstract: The impact on oil prices of geopolitical tensions and oil supply-side events is examined. Using a GARCH model on daily oil price data, we find that, when these events actually occur -10% frequency- the geopolitical events explain around 3/4 of daily oil returns forecasted by the model, and oil supply-side events explain 2/3. When there is no occurrence of these events, financial factors (i.e. dollar fluctuations and market risk perception changes) explain around 4/5 of the daily return of oil price forecasted in average. Variance of oil return is highly persistent and these events explain no more than 10% of the daily conditional variance on the day the events actually occur.
+abstract: This paper conducts an exhaustive out-of-sample forecasting evaluation exercise for the monthly price of crude oil between 1992 and 2011. The idea is to identify the forecasting strategy that results in the “best” forecasts in terms of mean forecasting error. To this end, a wide variety of econometric models as well as future prices are tested for different forecasting horizons in an individual manner, as well as combined. We find that for short horizons (1 and 3 months), an ARIMA specification results in smaller forecasting errors, but for longer horizons (6-24 months), future prices outperform other models. All models are found to underestimate the true price of oil, on average. The combination of these individual models only yields smaller forecasting errors when compared to the “best” individual strategy in a restricted sample ending in 2005. Nevertheless, when we tabulate the number of times one strategy yields the largest forecasting error compared to other alternatives, combinations of forecasts never yields the highest absolute error except one month ahead. These results are robust to the sample selection.
 
 # Summary. An optional shortened abstract.
-summary: We analyze how much of the daily returns are explained by supply events and geopolitical tensions.
+summary: We conduct an exhaustive out-of-sample forecasting evaluation exercise for the monthly price of crude oil between 1992 and 2011.
 
 tags:
-- Oil price
+- Oil prices
+- Forecasting
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://si2.bcentral.cl/public/pdf/documentos-trabajo/pdf/dtbc680.pdf
+url_pdf: http://si2.bcentral.cl/public/pdf/documentos-trabajo/pdf/dtbc660.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
