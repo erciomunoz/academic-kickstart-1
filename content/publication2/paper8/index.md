@@ -36,7 +36,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://documents.worldbank.org/curated/en/250821565096379368/pdf/Are-Budget-Rigidities-a-Source-of-Fiscal-Distress-and-a-Constraint-for-Fiscal-Consolidation.pdf
-url_code: http://documents.worldbank.org/curated/en/250821565096379368/Are-Budget-Rigidities-a-Source-of-Fiscal-Distress-and-a-Constraint-for-Fiscal-Consolidation
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
