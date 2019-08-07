@@ -27,7 +27,8 @@ summary: We replicate and extend Korinek, Mistiaen, and Ravallion 2007.
 tags:
 - Inequality 
 - Surveys
-- Unit nonresponse
+- Unit nonresponse bias
+- CPS
 featured: false
 
 # links:
