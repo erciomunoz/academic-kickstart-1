@@ -24,8 +24,9 @@ abstract: This paper uses the synthetic control method to estimate the short-ter
 summary: Using syntehtic control method I find a cumulative fall by the end of 2017 of 13% relative to the synthetic counterfactual.
 
 tags:
-- Inequality 
-- LAC
+- Chile
+- Synthetic control method
+- Reforms
 featured: false
 
 # links:
