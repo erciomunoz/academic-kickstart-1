@@ -28,7 +28,8 @@ summary: Inequality is a between-firm phenomenon with the commodities and manufa
 
 tags:
 - Inequality 
-- LAC
+- LA
+- Matched employer-employee data
 featured: false
 
 # links:
