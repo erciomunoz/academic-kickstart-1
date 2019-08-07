@@ -28,6 +28,7 @@ tags:
 - Inequality 
 - Unit nonresponse bias
 - CPS
+- Stata
 featured: false
 
 # links:
