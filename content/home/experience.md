@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2019-05-01"
   date_end = ""
-  description = """Work on intergenerational socioeconomic mobility."""
+  description = """Working on intergenerational socioeconomic mobility."""
 
 [[experience]]
   title = "Research associate"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2018-01-01"
   date_end = ""
-  description = """Work on regional study about fiscal policy in LAC."""
+  description = """"""
 
 [[experience]]
   title = "Consultant at the Macroeconomics, Trade & Investment Global Practice"
