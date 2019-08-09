@@ -35,4 +35,22 @@ date_format = "Jan 2006"
   date_end = "2014-07-01"
   description = """"""
   
+[[experience]]
+  title = "Graduate teaching assistant for Finance (x3)"
+  company = ""
+  company_url = ""
+  location = "Universidad de Chile"
+  date_start = "2011-07-01"
+  date_end = "2013-12-01"
+  description = """"""  
+  
+[[experience]]
+  title = "Teaching Assistant for Introduction to economics (x3)"
+  company = ""
+  company_url = ""
+  location = "Universidad Diego Portales"
+  date_start = "2010-03-01"
+  date_end = "2011-12-01"
+  description = """"""
+  
 +++
