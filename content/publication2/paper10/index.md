@@ -22,7 +22,7 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary:
+summary: Draft coming soon.
 
 tags:
 - Panel data
