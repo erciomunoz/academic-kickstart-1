@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://erciomunoz.github.io/files/Draft.pdf
+url_pdf: https://academic-kickstart-1/static/files/Draft_kmr.pdf 
 url_code: https://github.com/erciomunoz/kmr
 url_dataset: ''
 url_poster: ''
