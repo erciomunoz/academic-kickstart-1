@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://academic-kickstart-1/static/files/Draft_cps.pdf 
+url_pdf: "files/Draft_cps.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
