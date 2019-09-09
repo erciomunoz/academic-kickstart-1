@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am Ph.D. student in economics at CUNY Graduate Center, lecturer at the City College of New York, research associate at the Stone Center on Socio-Economic Inequality, and consultant at the World Bank. This semester (Spring 2019) I am visiting the Department of Economics at the University of Maryland.
+I am Ph.D. candidate in economics at CUNY Graduate Center, lecturer at the City College of New York, research associate at the Stone Center on Socio-Economic Inequality, and consultant at the World Bank (DECPI). 
