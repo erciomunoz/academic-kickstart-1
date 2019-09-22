@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Economics
+  - course: Ph.D. in Economics
     institution: CUNY Graduate Center
     year: 2021 (expected)
+  - course: M.Phil. in Economics
+    institution: CUNY Graduate Center
+    year: 2019
   - course: M.A. in Economics
     institution: Georgetown University
     year: 2015
