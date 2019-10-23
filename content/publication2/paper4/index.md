@@ -1,5 +1,5 @@
 ---
-title: "Momentum Effects in the NBA: Exploiting the Fine Line between Winning and Losing"
+title: "Momentum in Repeated Competition: Exploiting the Fine Line between Winning and Losing"
 authors:
 - admin
 - Jiadi Chen
@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: "mimeo"
 publication_short: ""
 
-abstract: Competition in the National Basketball Association takes on two formats in a single season. This provides a pair of fronts on which to test the existence of momentum effects, which have been analyzed extensively in finance and sports. We assess whether a team that wins a match has a higher probability of winning the next match. Since winning is endogenous, we identify the causal effect of winning a game using a regression discontinuity design with NBA data from 1950 to 2018. Like other recent studies, we find evidence of a positive momentum effect of approximately 4 percentage points in the regular season. In contrast, we find a negative momentum effect of approximately 18 percentage points for the playoffs. We argue that the tournament design of the playoffs theoretically provides a better set-up to estimate the momentum effect because opponents match up consecutively and repeatedly (allowing us to better control for unobserved factors such as team strength, home-court advantage, and rest time), and that the two parts of the NBA season are not comparable because the incentives of teams and the league shift during the playoffs. Our findings highlight the importance of defining both the nature and domain of momentum, and that, even within a sports league, the existence of momentum depends on context.
+abstract: Serial correlation in performance has been analyzed extensively in finance and athletic competition. Momentum is an empirically established tendency for asset prices, but the existence of momentum in sports remains an open question. We find evidence of momentum in the National Basketball Association. A regression discontinuity de sign enables us to identify the causal effect of recent victories. We find a small positive momentum effect overall, but a large negative momentum effect for the playoffs, during which the influence of confounding factors is attenuated. We discuss potential strategic mechanisms behind this finding, and conclude that even within a sports league, the influence of momentum depends on context and incentives.
 
 # Summary. An optional shortened abstract.
 summary: We apply a RDD to identify the causal effect of winning a game on the outcome of the next game.
