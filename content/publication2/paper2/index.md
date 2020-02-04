@@ -1,8 +1,8 @@
 ---
 title: "kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates"
 authors:
-- Salvatore Morelli
 - admin
+- Salvatore Morelli
 date: "2019-02-01T00:00:00Z"
 doi: ""
 
