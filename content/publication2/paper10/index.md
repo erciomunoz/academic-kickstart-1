@@ -28,7 +28,7 @@ tags:
 - Panel data
 - Pretesting
 - Standard errors
-featured: true
+featured: false
 
 # links:
 # - name: ""
