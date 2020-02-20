@@ -16,10 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Stone Center Working Paper. No. 02. 2020.*"
+publication: "*mimeo*"
 publication_short: ""
 
-abstract: "This article describes kmr, a Stata command to estimate a micro compliance function using group’s nonresponse rates (2007, Journal of Econometrics 136: 213-235), which can be used to correct survey weights for unit nonresponse. We illustrate the use of kmr with an empirical example using the Current Population Survey and state-level nonresponse rates."
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: "How to estimate a micro compliance function using group's nonresponse rates in Stata."
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://stonecenter.gc.cuny.edu/files/2019/01/SCWP02_kmr-A-Command-to-Correct-Survey-Weights-for-Unit-Nonresponse-using-Group%E2%80%99s-Response-Rates.pdf"
+url_pdf: "files/Draft_kmr.pdf"
 url_code: https://github.com/erciomunoz/kmr
 url_dataset: ''
 url_poster: ''
