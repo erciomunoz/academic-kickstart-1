@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "files/Draft_kmr.pdf"
+url_pdf: "https://stonecenter.gc.cuny.edu/files/2019/01/SCWP02_kmr-A-Command-to-Correct-Survey-Weights-for-Unit-Nonresponse-using-Group%E2%80%99s-Response-Rates.pdf"
 url_code: https://github.com/erciomunoz/kmr
 url_dataset: ''
 url_poster: ''
