@@ -35,7 +35,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_code: 'https://github.com/erciomunoz/qregsel'
+url_code: https://github.com/erciomunoz/qregsel
 url_dataset: ''
 url_poster: ''
 url_project: ''
