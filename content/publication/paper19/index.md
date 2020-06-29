@@ -35,9 +35,9 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
+url: https://www.erciomunoz.org/post/leafMap.html
 url_pdf: https://www.erciomunoz.org/files/Draft_attendance.pdf
-url_code: https://www.erciomunoz.org/post/leafMap.html)
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
