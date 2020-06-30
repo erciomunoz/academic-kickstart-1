@@ -45,3 +45,5 @@ The best place to start learning the tidyverse is [R for Data Science](http://r4
 * [Stat405](http://stat405.had.co.nz); Hadley Wickham, Rice University.
   Mainly included for historical interest - you can see some of the work
   that lead up to the creation of the tidyverse.
+
+<iframe seamless src=" /static/leafMap.html" width="100%" height="500"></iframe>
