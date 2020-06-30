@@ -46,4 +46,4 @@ The best place to start learning the tidyverse is [R for Data Science](http://r4
   Mainly included for historical interest - you can see some of the work
   that lead up to the creation of the tidyverse.
 
-<iframe seamless src=" /static/leafMap.html" width="100%" height="500"></iframe>
+<iframe seamless src="/files/leafMap.html" width="100%" height="500"></iframe>
