@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am Ph.D. candidate in economics at CUNY Graduate Center, lecturer at the City College of New York, research associate at the Stone Center on Socio-Economic Inequality, and consultant at the World Bank (DECPI). 
+I am Ph.D. candidate in economics at CUNY Graduate Center, research associate at the Stone Center on Socio-Economic Inequality, and consultant at the World Bank (DECPI). 
