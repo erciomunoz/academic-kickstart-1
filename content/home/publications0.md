@@ -25,7 +25,7 @@ title = "Working papers and research in progress"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "InSpanish"
     category = ""
     publication_type = "3"
     exclude_featured = false
