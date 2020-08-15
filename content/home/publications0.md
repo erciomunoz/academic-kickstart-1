@@ -67,5 +67,5 @@ title = "Working papers and research in progress"
 +++
 
 {{% alert note %}}
- Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+ [Searching something in particular?]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
