@@ -28,6 +28,7 @@ summary:  For one-quarter ahead forecasting horizon, time series models are an a
 tags:
 - Forecasting
 - Copper price
+- InSpanish
 featured: false
 
 # links:
