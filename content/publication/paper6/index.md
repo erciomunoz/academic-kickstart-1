@@ -26,6 +26,7 @@ summary: Copper prices react positively to growth surprises in China.
 tags:
 - China
 - Copper prices
+- InSpanish
 featured: false
 
 # links:
