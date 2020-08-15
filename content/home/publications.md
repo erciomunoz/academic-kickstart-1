@@ -25,7 +25,7 @@ subtitle = "In Spanish"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "InSpanish"
     category = ""
     publication_type = "2"
     exclude_featured = false
