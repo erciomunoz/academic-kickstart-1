@@ -28,6 +28,7 @@ tags:
 - Natural disasters
 - Inflation
 - Earthquakes
+- 0
 featured: false
 
 # links:
