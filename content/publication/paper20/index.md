@@ -15,7 +15,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preliminary draft available upon request"
+publication: "Preliminary results available upon request"
 publication_short: ""
 
 abstract: This paper revisits the evidence about time series momentum in the context of pooled regression with a focus on inference doing pairs cluster and wild cluster bootstrap. This particular application highlights how different ways of implementing a bootstrap, even when they are asymptotically valid, can deliver opposite conclusions. In addition, I survey the use of bootstrap in finance and their implementation. Finally, I show using Monte Carlo simulations what method is better suited for the application at hand.
