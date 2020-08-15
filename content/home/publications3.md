@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 21  # Order that this section will appear.
+weight = 23  # Order that this section will appear.
 
 title = "Old Working Papers"
 subtitle = "Central Bank of Chile"
