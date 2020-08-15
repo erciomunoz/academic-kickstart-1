@@ -26,6 +26,7 @@ summary: Commodity prices can impact sovereign spreads.
 tags:
 - Commodity prices
 - Sovereign spreads
+- InSpanish
 featured: false
 
 # links:
