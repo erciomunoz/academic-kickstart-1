@@ -28,7 +28,7 @@ tags:
 - Natural disasters
 - Inflation
 - Earthquakes
-- 0
+- InSpanish
 featured: false
 
 # links:
