@@ -27,6 +27,7 @@ summary: The divided tax reduction affected the price drop ratios, consistent wi
 tags:
 - Tax clientele hypothesis
 - Ex-dividend day
+- I
 featured: false
 
 # links:
