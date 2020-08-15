@@ -28,6 +28,7 @@ tags:
 - Commodity prices
 - Stock markets
 - LAC
+- InSpanish
 featured: false
 
 # links:
