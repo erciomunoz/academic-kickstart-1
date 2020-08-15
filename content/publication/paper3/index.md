@@ -27,6 +27,7 @@ summary: A FAVAR model can beat three simple benchmarks between 1 to 12 months a
 tags:
 - Forecasting
 - Copper price
+- InSpanish
 featured: false
 
 # links:
