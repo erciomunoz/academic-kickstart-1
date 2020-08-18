@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: CUNY Graduate Center
-    year: 2021 (expected)
+    year: 2016-
   - course: M.Phil. in Economics
     institution: CUNY Graduate Center
     year: 2019
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am Ph.D. candidate in economics at CUNY Graduate Center, research associate at the Stone Center on Socio-Economic Inequality, and consultant at the World Bank (DECPI). 
+I am Ph.D. candidate in economics at CUNY Graduate Center, research associate at the Stone Center on Socio-Economic Inequality, and consultant at the World Bank (DECPI).
