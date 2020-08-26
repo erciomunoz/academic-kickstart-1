@@ -76,4 +76,6 @@ user_groups:
 - Visitors
 ---
 
-I am Ph.D. candidate in economics at CUNY Graduate Center, research associate at the Stone Center on Socio-Economic Inequality, and consultant at the World Bank (DECPI).
+Hi, thank you for visiting my website!
+I am Ph.D. candidate in economics at CUNY Graduate Center working under the supervision of Nuria Rodriguez-Planas and Wim Vijverberg. In addition, I am research associate at the Stone Center on Socio-Economic Inequality (since 2018), and consultant at Development Economics Research Group (Poverty and Inequality) in the World Bank (since 2019).
+I have more than 7 years of work experience and previously worked at the Central Bank of Chile, the Inter-American Development Bank and others units of the World Bank.
