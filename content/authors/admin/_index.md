@@ -80,4 +80,4 @@ Hi, thank you for visiting my website!
 
 I am Ph.D. candidate in economics at CUNY Graduate Center writing my dissertation under the supervision of Nuria Rodriguez-Planas and Wim Vijverberg. In addition, I am Cyberlearning fellow at Baruch College, research associate at the Stone Center on Socio-Economic Inequality (since 2018), and consultant at the Development Economics Research Group (Poverty and Inequality) of the World Bank (since 2019).
 
-I have more than 7 years of work experience in places such as the Central Bank of Chile, the Inter-American Development Bank, and other units of the World Bank.
+I have more than 7 years of work experience. I have worked at the Central Bank of Chile, the Inter-American Development Bank, and the World Bank.
