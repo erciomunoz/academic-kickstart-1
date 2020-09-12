@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1044028316300795
+url_pdf: https://www.erciomunoz.org/files/Munoz-Rodriguez-2017.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
