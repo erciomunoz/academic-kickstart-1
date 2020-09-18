@@ -28,7 +28,7 @@ tags:
 - Sample selection
 - Quantile regression
 - Copula method
-- Python
+- WP
 featured: false
 
 # links:
