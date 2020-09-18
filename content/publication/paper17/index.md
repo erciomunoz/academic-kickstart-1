@@ -28,6 +28,7 @@ tags:
 - Panel data
 - Pretesting
 - Standard errors
+- WP
 featured: false
 
 # links:
