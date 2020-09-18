@@ -31,6 +31,7 @@ tags:
 - Winner  effect 
 - Sports 
 - Quasi experiments
+- WP
 featured: false
 
 # links:
