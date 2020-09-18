@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 19  # Order that this section will appear.
+weight = 24 # Order that this section will appear.
 
-title = "Working papers and research in progress"
+title = "Other working papers"
 # subtitle = "In Spanish"
 
 [content]
@@ -25,7 +25,7 @@ title = "Working papers and research in progress"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "policy"
     category = ""
     publication_type = "3"
     exclude_featured = false
