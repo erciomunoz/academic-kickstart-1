@@ -30,7 +30,7 @@ tags:
 - Inequality 
 - LA
 - Matched employer-employee data
-- policy
+- Policy
 featured: false
 
 # links:
