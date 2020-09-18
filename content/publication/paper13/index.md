@@ -27,6 +27,7 @@ tags:
 - Elections 
 - Chile
 - Incumbency advantage
+- WP
 featured: false
 
 # links:
