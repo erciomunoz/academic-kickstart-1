@@ -25,7 +25,7 @@ title = "Other working papers"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Policy"
+    tag = "Policywp"
     category = ""
     publication_type = "3"
     exclude_featured = false
