@@ -28,6 +28,7 @@ tags:
 - Wild bootstrap
 - Pairs bootstrap
 - Time series momentum
+- WP
 featured: false
 
 # links:
