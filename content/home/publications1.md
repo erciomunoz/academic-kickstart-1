@@ -65,7 +65,3 @@ title = "Other working papers"
  # CSS class.
  css_class = ""
 +++
-
-{{% alert note %}}
- [Searching something in particular?]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
