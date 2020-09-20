@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper N° 680, 2012, Central Bank of Chile*"
+publication: "*Working Paper 680, 2012, Central Bank of Chile*"
 publication_short: ""
 
 abstract: The impact on oil prices of geopolitical tensions and oil supply-side events is examined. Using a GARCH model on daily oil price data, we find that, when these events actually occur -10% frequency- the geopolitical events explain around 3/4 of daily oil returns forecasted by the model, and oil supply-side events explain 2/3. When there is no occurrence of these events, financial factors (i.e. dollar fluctuations and market risk perception changes) explain around 4/5 of the daily return of oil price forecasted in average. Variance of oil return is highly persistent and these events explain no more than 10% of the daily conditional variance on the day the events actually occur.
