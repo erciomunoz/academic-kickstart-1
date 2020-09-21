@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include applied econometrics, political economy, and socioeconomic inequality.
 
 interests:
-- Applied Econometrics
-- Political Economy
-- Socioeconomic Inequality
+- Applied econometrics
+- Labor economics
+- Socioeconomic inequality
+- Political economy
+- Sports
 
 education:
   courses:
