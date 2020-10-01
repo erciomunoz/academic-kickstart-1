@@ -1,5 +1,5 @@
 ---
-title: "When Reforms Backfire: The Increasing Incumbency Advantage in Chilean Mayoral Elections"
+title: "Die Hard? The Jump in Incumbency Advantage after an Electoral Reform in Chile"
 authors:
 - admin
 date: "2018-01-01T00:00:00Z"
@@ -15,10 +15,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Draft available upon request"
 publication_short: ""
 
-abstract: This paper uses a regression discontinuity design to estimate the causal effect of incumbency status on the probability of winning a mayoral election in Chile. Moreover, it studies how it changed with a reform in the political campaign law that limited advertisement and modified the way in which campaigns were financed to shed some light on some of the potential determinants of this electoral advantage. I find a significant incumbency advantage only after the reform implemented in 2016. For the mayoral elections between 1996 and 2012, I do not find statistically significant advantage but in 2016 election being the incumbent increases significantly the unconditional probability of being elected by 39 percentage points. This finding suggests that the reform benefited the incumbents.
+abstract: This paper uses a regression discontinuity design to estimate the causal effect of incumbency status on the probability of winning a mayoral election in Chile. Moreover, it studies how it changed after a reform in the political campaign law that limited advertisement and modified the way in which campaigns were financed to shed some light on some of the potential determinants of this electoral advantage. I find a significant incumbency advantage only after the reform implemented in 2016. For the mayoral elections between 1996 and 2012, I do not find statistically significant advantage but in 2016 election being the incumbent increases significantly the unconditional probability of being elected by 38 percentage points. This finding suggests that the reform benefited the incumbents.
 
 # Summary. An optional shortened abstract.
 summary: I find a significant incumbency advantage in municipal elections only after the reform implemented in 2016. 
