@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Under review"
 publication_short: ""
 
 abstract: In this paper we use a sharp regression discontinuity design to estimate the causal effect of a win on the attendance of the subsequent game in the National Basketball Association. The data cover games in 1981 to 2018. Our findings indicate that the fan base reacts to a recent victory, with an increase in attendance of approximately 425 tickets. This increase is approximately one-eighth of the superstar effect estimated by Humphreys and Johnson 2020. The positive response to narrow home wins relative to narrow losses suggests that sporting attendance is yet another example of luck being rewarded (Gauriot and Page 2019). In contrast, we do not find changes in attendance for games when the visiting team has a recent victory, implying the absence of externalities.
