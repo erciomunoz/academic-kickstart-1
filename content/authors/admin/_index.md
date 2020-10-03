@@ -25,7 +25,7 @@ interests:
 - Labor economics
 - Socioeconomic inequality
 - Political economy
-- Sports
+- Sports economics
 
 education:
   courses:
