@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preliminary draft available upon request"
+publication: "Draft available upon request"
 publication_short: ""
 
 abstract: This paper addresses the question of how to estimate the standard errors in panel data when there are potentially unobserved cluster effects. We analyze the performance of statistical inference regarding the parameters of a panel data model when is first subjected to a pretest for the presence of individual and/or time unobserved cluster effects. Using Monte Carlo simulations we compare the performance of six proposed diagnostics that make use of statistical tests available in the literature such as Lagrange Multiplier, Likelihood ratio, and F tests. We find that these six pretest estimators are a viable alternative to estimate panel data models with unobserved cluster effects, in the sense that they achieve empirical sizes very close to the ones obtained using an estimator of the variance as if we knew the true data generating process.
