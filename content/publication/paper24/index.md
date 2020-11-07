@@ -2,11 +2,11 @@
 title: "The Geography of Intergenerational Mobility in Latin America and the Caribbean"
 authors:
 - admin
-date: "2020-09-01T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2020-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
