@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: "Preliminary results available upon request"
 publication_short: ""
 
-abstract: In this paper I estimate educational intergenerational mobility in Chile at subnational level using Census data.
+abstract: I estimate intergenerational mobility (IGM) in education at a disaggregated geographic level for the cohort born in the nineties using full-count Census microdata of Chile. I document wide variation across the more than three hundred communes in absolute and relative IGM. Relative mobility measured as one minus the regression coefficient of children education on parental education ranges between 0.56 and 0.98 while absolute mobility estimated as the intercept of the same regression ranges between 7 and 12. Relative mobility is positively correlated with municipal budget, municipal expenditure and public education coverage, and negatively correlated with earnings inequality, population, population density, and the ratio of students per teacher.
 
 # Summary. An optional shortened abstract.
 summary: Draft coming soon.
