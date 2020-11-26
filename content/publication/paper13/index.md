@@ -1,5 +1,5 @@
 ---
-title: "Incumbency Advantage, Money and Campaigns: A Note on Some Suggestive Evidence from Chile"
+title: "Incumbency Advantage, Money, and Campaigns: A Note on Some Suggestive Evidence from Chile"
 authors:
 - admin
 date: "2018-01-01T00:00:00Z"
