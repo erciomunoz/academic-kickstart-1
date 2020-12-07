@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Submitted"
 publication_short: ""
 
 abstract: This paper uses the synthetic control method to estimate the short-term impact on GDP of the reforms implemented between 2014 and 2017 in Chile by the government of President Michelle Bachelet. I find a cumulative fall by the end of 2017 of 13% relative to the synthetic counterfactual. This result is robust to the use of a donor pool that includes economies for which primary commodities are relevant, as well as one that only includes OECD countries.
