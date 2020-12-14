@@ -17,7 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
+publication: "Submitted.
+Presentations: EEA 2020"
 publication_short: ""
 
 abstract: Serial correlation in performance has been analyzed extensively in finance and athletic competition. Momentum is an empirically established tendency for asset prices, but the existence of momentum in sports remains an open question. We find evidence of momentum in the National Basketball Association. A regression discontinuity de sign enables us to identify the causal effect of recent victories. We find a small positive momentum effect overall, but a large negative momentum effect for the playoffs, during which the influence of confounding factors is attenuated. We discuss potential strategic mechanisms behind this finding, and conclude that even within a sports league, the influence of momentum depends on context and incentives.
