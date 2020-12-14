@@ -15,7 +15,8 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preliminary results available upon request"
+publication: "Preliminary results available upon request.
+Presentations: CUNY Graduate Center 2020"
 publication_short: ""
 
 abstract: This paper revisits the evidence about time series momentum in the context of pooled regression with a focus on inference doing pairs cluster and wild cluster bootstrap. 
