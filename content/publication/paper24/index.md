@@ -15,7 +15,7 @@ publishDate: "2020-02-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Draft available upon request.
+publication: "**Draft available upon request.**
 *Presentations: CUNY Graduate Center 2020, Missouri Valley Econ. Assoc. 2020, Stone Center 2020, WEAI 2021 (scheduled), and MEA 2021 (scheduled)*"
 publication_short: ""
 
