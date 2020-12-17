@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper 633, 2011, Central Bank of Chile*"
+publication: "***Working Paper 633, 2011, Central Bank of Chile***"
 publication_short: ""
 
 abstract: "The financial crisis of 2008, the subsequent fiscal stimulus, and damage to the fiscal position-–especially in the developed countries--, raised the concerns about their impact on long-term interest rates. Using a stylized model, we establish the link between long-term interest rates and the main fiscal policy variables, such as fiscal deficit and public debt. We estimate a panel data model of the long-term interest rate for the period 1990-2009, considering a sample of 54 emerging and developed economies. We find that, when the fiscal deficit expands by 1%, the long-term interest rate rises between 10 and 12 basis points. When we consider the role of monetary policy and its credibility and fiscal rules as stabilizers of the business cycle, we find that: (i) credibility helps maintain lower interest rate than otherwise, and ii) fiscal rules help attenuate the impact of fiscal deficit on long term interest rates. Finally, it is found that fiscal policy explained nearly 40% of the long term interest rate for G7 countries during 2007-2010."
