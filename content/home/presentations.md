@@ -49,20 +49,20 @@ subtitle = ""
 +++
 
 1. March 2021: Midwest Economics Association
-2. March 2021: Western Economic Association International
-3. December 2020: Stone Center on Socio-economic Inequality
-4. November 2020: Southern Economic Association
-5. October 2020: Missouri Valley Economic Association
-6. July 2020: Stata Conference
-7. June 2020: Western Economic Association International
-8. February 2020: Eastern Economic Association
-9. February 2020: NY Camp Econometrics (cancelled)
-10. December 2019: CGU Dissertation Workshop
-11. July 2019: Stata Conference Chicago
-12. May 2019: The World Bank (co-author)
-13. April 2019: GWU Student Research Conference
-14. March 2019: APPAM DC Regional Student Conference
-15. July 2018: SSSI Bonn (poster)
-16. December 2014: XLIX CLADEA Conference (co-author)
-17. September 2012: Annual meeting of the Chilean Economic Society
-18. 2011-12-13: Central Bank of Chile
++ March 2021: Western Economic Association International
++ December 2020: Stone Center on Socio-economic Inequality
++ November 2020: Southern Economic Association
++ October 2020: Missouri Valley Economic Association
++ July 2020: Stata Conference
++ June 2020: Western Economic Association International
++ February 2020: Eastern Economic Association
++ February 2020: NY Camp Econometrics (cancelled)
++ December 2019: CGU Dissertation Workshop
++ July 2019: Stata Conference Chicago
++ May 2019: The World Bank (co-author)
++ April 2019: GWU Student Research Conference
++ March 2019: APPAM DC Regional Student Conference
++ July 2018: SSSI Bonn (poster)
++ December 2014: XLIX CLADEA Conference (co-author)
++ September 2012: Annual meeting of the Chilean Economic Society
++ 2011-12-13: Central Bank of Chile
