@@ -63,6 +63,6 @@ subtitle = ""
 13. April 2019: GWU Student Research Conference
 14. March 2019: APPAM DC Regional Student Conference
 15. July 2018: SSSI Bonn (poster)
-16. December 2014: XLIX CLADEA Conf. 2014 (co-author)
+16. December 2014: XLIX CLADEA Conference (co-author)
 17. September 2012: Annual meeting of the Chilean Economic Society
 18. 2011-12-13: Central Bank of Chile
