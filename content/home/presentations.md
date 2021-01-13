@@ -9,7 +9,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 85  # Order that this section will appear.
 
-title = "Presentations"
+title = "Talks (including scheduled)"
 subtitle = ""
 
 [design]
@@ -23,11 +23,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+ color = "white"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+#  gradient_start = "DarkGreen"
+#  gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -48,8 +48,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Presentations (including scheduled).
-
 1. Midwest Economics Association
 2. Western Economic Association International 2021
 3. Stone Center on Socio-economic Inequality
@@ -68,11 +66,3 @@ Presentations (including scheduled).
 16. XLIX CLADEA Conf. 2014 (co-author)
 17. SECHI 2012
 18. Central Bank of Chile 2011-12-13
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
