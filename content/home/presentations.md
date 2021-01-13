@@ -38,7 +38,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "20px", "20px", "20px"]
+  padding = ["20px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -48,21 +48,21 @@ subtitle = ""
  css_class = ""
 +++
 
-1. March 2021: Midwest Economics Association
-+ March 2021: Western Economic Association International
-+ December 2020: Stone Center on Socio-economic Inequality
-+ November 2020: Southern Economic Association
-+ October 2020: Missouri Valley Economic Association
-+ July 2020: Stata Conference
-+ June 2020: Western Economic Association International
-+ February 2020: Eastern Economic Association
-+ February 2020: NY Camp Econometrics (cancelled)
-+ December 2019: CGU Dissertation Workshop
-+ July 2019: Stata Conference Chicago
-+ May 2019: The World Bank (co-author)
-+ April 2019: GWU Student Research Conference
-+ March 2019: APPAM DC Regional Student Conference
-+ July 2018: SSSI Bonn (poster)
-+ December 2014: XLIX CLADEA Conference (co-author)
-+ September 2012: Annual meeting of the Chilean Economic Society
-+ 2011-12-13: Central Bank of Chile
+    1. March 2021: Midwest Economics Association
+    + March 2021: Western Economic Association International
+    + December 2020: Stone Center on Socio-economic Inequality
+    + November 2020: Southern Economic Association
+    + October 2020: Missouri Valley Economic Association
+    + July 2020: Stata Conference
+    + June 2020: Western Economic Association International
+    + February 2020: Eastern Economic Association
+    + February 2020: NY Camp Econometrics (cancelled)
+    + December 2019: CGU Dissertation Workshop
+    + July 2019: Stata Conference Chicago
+    + May 2019: The World Bank (co-author)
+    + April 2019: GWU Student Research Conference
+    + March 2019: APPAM DC Regional Student Conference
+    + July 2018: SSSI Bonn (poster)
+    + December 2014: XLIX CLADEA Conference (co-author)
+    + September 2012: Annual meeting of the Chilean Economic Society
+    + 2011-12-13: Central Bank of Chile
