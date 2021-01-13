@@ -23,7 +23,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
- color = "white"
+# color = "white"
   
   # Background gradient.
 #  gradient_start = "DarkGreen"
@@ -48,21 +48,21 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Midwest Economics Association
-2. Western Economic Association International 2021
-3. Stone Center on Socio-economic Inequality
-4. Southern Economic Association
-5. Missouri Valley Economic Association
-6. Stata Conference
-7. Western Economic Association International
-8. Eastern Economic Association
-9. NY Camp Econometrics
-10. The World Bank (co-author)
-11. Stata Conference Chicago
-12. GWU Student Research Conference
-13. APPAM DC Regional Student Conference
-14. CGU Dissertation Workshop
-15. SSSI Bonn 2018 (poster)
-16. XLIX CLADEA Conf. 2014 (co-author)
-17. SECHI 2012
-18. Central Bank of Chile 2011-12-13
+1. March 2021: Midwest Economics Association
+2. March 2021: Western Economic Association International 2021
+3. December 2020: Stone Center on Socio-economic Inequality
+4. November 2020: Southern Economic Association
+5. October 2020: Missouri Valley Economic Association
+6. July 2020: Stata Conference
+7. June 2020: Western Economic Association International
+8. February 2020: Eastern Economic Association
+9. February 2020: NY Camp Econometrics (cancelled)
+10. December 2019: CGU Dissertation Workshop
+11. The World Bank (co-author)
+12. July 2019: Stata Conference Chicago
+13. April 2019: GWU Student Research Conference
+14. March 2019: APPAM DC Regional Student Conference
+15. July 2018: SSSI Bonn (poster)
+16. December 2014: XLIX CLADEA Conf. 2014 (co-author)
+17. September 2012: Annual meeting of the Chilean Economic Society
+18. 2011-12-13: Central Bank of Chile
