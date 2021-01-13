@@ -23,7 +23,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-# color = "white"
+ color = "white"
   
   # Background gradient.
 #  gradient_start = "DarkGreen"
@@ -34,7 +34,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -49,7 +49,7 @@ subtitle = ""
 +++
 
 1. March 2021: Midwest Economics Association
-2. March 2021: Western Economic Association International 2021
+2. March 2021: Western Economic Association International
 3. December 2020: Stone Center on Socio-economic Inequality
 4. November 2020: Southern Economic Association
 5. October 2020: Missouri Valley Economic Association
@@ -58,8 +58,8 @@ subtitle = ""
 8. February 2020: Eastern Economic Association
 9. February 2020: NY Camp Econometrics (cancelled)
 10. December 2019: CGU Dissertation Workshop
-11. The World Bank (co-author)
-12. July 2019: Stata Conference Chicago
+11. July 2019: Stata Conference Chicago
+12. May 2019: The World Bank (co-author)
 13. April 2019: GWU Student Research Conference
 14. March 2019: APPAM DC Regional Student Conference
 15. July 2018: SSSI Bonn (poster)
