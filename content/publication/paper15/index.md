@@ -27,7 +27,7 @@ summary: High shares of rigid components of public spending contribute to countr
 tags:
 - Fiscal adjustment 
 - Budget rigidities
-- Policywp
+- OWP
 featured: false
 
 # links:
