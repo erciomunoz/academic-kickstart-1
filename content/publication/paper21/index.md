@@ -26,7 +26,7 @@ summary: We analyze how much of the daily returns are explained by supply events
 
 tags:
 - Oil price
-- Policywp
+- OWP
 featured: false
 
 # links:
