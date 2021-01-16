@@ -27,7 +27,7 @@ tags:
 - Chile
 - Synthetic control method
 - Reforms
-- WP
+- OWP
 featured: false
 
 # links:
