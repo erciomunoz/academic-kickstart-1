@@ -27,7 +27,7 @@ summary: We estimate a panel data model of the long-term interest rate for the p
 
 tags:
 - Long term interest rates
-- Policywp
+- OWP
 featured: false
 
 # links:
