@@ -32,7 +32,7 @@ tags:
 - Winner  effect 
 - Sports 
 - Quasi experiments
-- WP
+- OWP
 featured: false
 
 # links:
