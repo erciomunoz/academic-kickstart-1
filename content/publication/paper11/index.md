@@ -30,7 +30,7 @@ tags:
 - NBA
 - Momentum effects
 - Regression discontinuity design
-- WP
+- OWP
 featured: false
 
 # links:
