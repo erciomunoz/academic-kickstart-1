@@ -28,7 +28,7 @@ summary: We conduct an exhaustive out-of-sample forecasting evaluation exercise 
 tags:
 - Oil prices
 - Forecasting
-- Policywp
+- OWP
 featured: false
 
 # links:
