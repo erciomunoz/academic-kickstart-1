@@ -49,9 +49,10 @@ subtitle = ""
 +++
 
 1. May 2021: Society of Labor Economists Annual Conference
++ April 2021: Western Economic Association Annual Conference
 + March 2021: Midwest Economics Association
 + March 2021: Social Mobility and Economic Performance Workshop (poster) 
-+ March 2021: Western Economic Association International
++ March 2021: Western Economic Association Virtual International Conference
 + December 2020: Stone Center on Socio-economic Inequality
 + November 2020: Southern Economic Association
 + October 2020: Missouri Valley Economic Association
