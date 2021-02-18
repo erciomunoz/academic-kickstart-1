@@ -3,11 +3,11 @@ title: "kmr: A Command to Correct Survey Weights for Unit Nonresponse using Grou
 authors:
 - admin
 - Salvatore Morelli
-date: "2020-08-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2020-08-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***forthcoming at Stata Journal***"
+publication: "***Stata Journal, 21(1)***"
 publication_short: ""
 
 abstract: This article describes kmr, a Stata command to estimate a micro compliance function using group's nonresponse rates (2007, Journal of Econometrics 136, pp213-235), which can be used to correct survey weights for unit nonresponse. We illustrate the use of kmr with an empirical example using the Current Population Survey and state-level nonresponse rates. 
