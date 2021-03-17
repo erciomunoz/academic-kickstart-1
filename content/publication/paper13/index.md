@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Submitted.**
+publication: "**R & R.**
 *Presentations: APPAM DC regional student conference 2019*"
 publication_short: ""
 
@@ -28,13 +28,13 @@ tags:
 - Elections 
 - Chile
 - Incumbency advantage
-- OWP
+- WP
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "files/Draft_incumbency_advantage_note.pdf"
+# url_pdf: "files/Draft_incumbency_advantage_note.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
