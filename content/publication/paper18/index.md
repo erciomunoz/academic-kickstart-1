@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**R & R at Stata Journal.**
+publication: "**R & R.**
 *Presentations: Stata conference 2020*"
 publication_short: ""
 
