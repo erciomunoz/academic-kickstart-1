@@ -38,7 +38,7 @@ featured: false
 url_pdf: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
 url_code: ''
 url_dataset: ''
-url_poster: ''
+# url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
 # url_project: https://erciomunoz.shinyapps.io/IGM_LAC/
 url_slides: ''
 url_source: ''
