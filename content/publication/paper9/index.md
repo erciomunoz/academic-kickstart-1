@@ -37,7 +37,7 @@ featured: false
 #   url: "https://journals.sagepub.com/doi/abs/10.1177/1536867X211000025?journalCode=stja"
 # - name: working paper
 #   url: https://stonecenter.gc.cuny.edu/files/2019/01/SCWP02_kmr-A-Command-to-Correct-Survey-Weights-for-Unit-Nonresponse-using-Group%E2%80%99s-Response-Rates.pdf
- url_pdf: "https://stonecenter.gc.cuny.edu/files/2019/01/SCWP02_kmr-A-Command-to-Correct-Survey-Weights-for-Unit-Nonresponse-using-Group%E2%80%99s-Response-Rates.pdf"
+url_pdf: "https://stonecenter.gc.cuny.edu/files/2019/01/SCWP02_kmr-A-Command-to-Correct-Survey-Weights-for-Unit-Nonresponse-using-Group%E2%80%99s-Response-Rates.pdf"
 url_code: https://github.com/erciomunoz/kmr
 url_dataset: ''
 url_poster: ''
