@@ -15,11 +15,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Draft available upon request.**
-*Presentations: CUNY Graduate Center 2020, and WEAI 2021 (scheduled)*"
+publication: "*Presentations: CUNY Graduate Center 2020, and WEAI 2021 (scheduled)*"
 publication_short: ""
 
-abstract: I estimate intergenerational mobility (IGM) in education at a disaggregated geographic level for the cohort born in the nineties using full-count census microdata of Chile. I document wide variation across the more than three hundred communes in absolute and relative IGM. Relative mobility measured as one minus the regression coefficient of children education on parental education ranges between 0.47 and 0.98 while absolute mobility estimated as the intercept of the same regression ranges between 5.8 and 12. Relative mobility is positively correlated with the share of students in public schools and number of doctors, and negatively correlated to labor earnings inequality. The estimation of a LASSO gives the share of students in public schools and students per teacher ratio as the strongest predictors. In addition, I also document within country variability in how parental education affects other child’s outcomes such as attending tertiary education and being mother as a teenager in the case of females.
+abstract: I estimate intergenerational mobility (IGM) in education at a disaggregated geographic level for the cohort born in the nineties using full-count census microdata of Chile. I document wide variation across the more than three hundred communes in several measures of IGM. Relative mobility measured as one minus the regression coefficient of children's years of schooling on parents' years of schooling ranges between 0.54 and 0.97 while absolute mobility estimated as the intercept of the same regression ranges between 7.16 and 11.73. Relative mobility is positively correlated to the number of doctors, and negatively correlated to the ratio of students per teacher, and to labor earnings inequality, especially in the upper half of the income distribution. Using a LASSO, I find that the share of students in public schools and municipal budget are the strongest predictors of IGM. In addition, I also document within country variability in how parental education affects other child’s outcomes such as attending tertiary education and being mother as a teenager in the case of females.
 
 # Summary. An optional shortened abstract.
 summary: Draft coming soon.
@@ -34,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://www.erciomunoz.org/files/Draft_IGM_Chile.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
