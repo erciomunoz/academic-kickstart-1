@@ -1,5 +1,5 @@
 ---
-title: "kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates"
+title: "kmr: A Command to Correct Survey Weights for Unit Nonresponse using Groups' Response Rates"
 authors:
 - admin
 - Salvatore Morelli
