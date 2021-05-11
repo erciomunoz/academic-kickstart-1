@@ -3,7 +3,7 @@ title: "Implementing Quantile Selection Models in Stata"
 authors:
 - admin
 - Mariel Siravegna
-date: "2021-02-01T00:00:00Z"
+date: "2021-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
