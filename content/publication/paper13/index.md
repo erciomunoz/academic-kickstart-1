@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: "files/Draft_incumbency_advantage_note.pdf"
+url_pdf: https://www.erciomunoz.org/files/Draft_incumbency_advantage_note.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
