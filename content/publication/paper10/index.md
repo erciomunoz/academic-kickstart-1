@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Submitted**"
+publication: ""
 publication_short: ""
 
 abstract: We replicate and extend Korinek, Mistiaen, and Ravallion 2007.
