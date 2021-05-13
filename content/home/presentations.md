@@ -52,6 +52,7 @@ subtitle = ""
 + July 2021: Ninth ECINEQ Meeting
 + June 2021: Canadian Economics Association Conference 
 + June 2021: Western Economic Association Annual Conference
++ May 2021: Jagiellonian University
 + May 2021: Society of Labor Economists Annual Conference
 + April 2021: Conference on Opportunities, Mobility, and Well-Being
 + April 2021: Centro de Estudios Espinosa Yglesias
