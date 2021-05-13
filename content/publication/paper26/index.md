@@ -15,7 +15,7 @@ publishDate: "2020-02-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Presentations: CUNY Graduate Center 2020*"
+publication: "*Presentations: CUNY Graduate Center and Development Bank of Latin America (scheduled)*"
 publication_short: ""
 
 abstract:
