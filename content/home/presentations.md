@@ -71,6 +71,7 @@ subtitle = ""
 + May 2019: The World Bank (co-author)
 + April 2019: GWU Student Research Conference
 + March 2019: APPAM DC Regional Student Conference
++ July 2018: LIS Summer Workshop
 + July 2018: SSSI Bonn (poster)
 + December 2014: XLIX CLADEA Conference (co-author)
 + September 2012: Annual meeting of the Chilean Economic Society
