@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include applied econometrics, political economy, and socioeconomic inequality.
 
 interests:
-- Applied econometrics
 - Labor economics
 - Socioeconomic inequality
+- Applied econometrics
 - Political economy
 - Sports economics
 
@@ -82,6 +82,6 @@ Hi, thank you for visiting my website!
 
 I am a 5th-year Ph.D. candidate in economics at CUNY Graduate Center writing my dissertation under the supervision of Nuria Rodriguez-Planas and Wim Vijverberg. I am also consultant at the Development Research Group (Poverty and Inequality) of the World Bank (at the Bank since 2018 and DECPI since 2019). I have more than seven years of work experience and have previously also worked at the Central Bank of Chile and the Inter-American Development Bank.
 
-My fields of specialization are applied econometrics and human resource economics. My main dissertation paper is on the geography of educational intergenerational mobility in Latin America and the Caribbean. A second theme of my research concerns measurement and statistical inference issues in applied work. I have a balanced portfolio that applies a diverse set of econometric techniques to topics spanning intergenerational mobility, earnings inequality, gender gaps, survey nonresponse, incumbency advantage, statistical inference in finance, and sports economics. 
+My fields of specialization are human resource economics and applied econometrics. My main dissertation paper is on the geography of educational intergenerational mobility in Latin America and the Caribbean. A second theme of my research concerns measurement and statistical inference issues in applied work. I have a balanced portfolio that applies a diverse set of econometric techniques to topics spanning intergenerational mobility, earnings inequality, gender gaps, survey nonresponse, incumbency advantage, statistical inference in finance, and sports economics. 
 
 I have a strong interest in empirical methods and have co-authored two new Stata commands that address survey nonresponse and sample selection in quantile regressions. 
