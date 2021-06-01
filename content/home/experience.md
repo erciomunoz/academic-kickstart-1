@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Washington DC"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2021-06-30"
   description = """Working on intergenerational socioeconomic mobility."""
 
 [[experience]]
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Washington DC"
   date_start = "2018-01-01"
-  date_end = ""
+  date_end = "2021-05-31"
   description = """"""
 
 [[experience]]
