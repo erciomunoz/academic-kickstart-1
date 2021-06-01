@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   company = "The World Bank"
   company_url = ""
   location = "Washington DC"
-  date_start = "2018-06-01"
+  date_start = "2018-07-01"
   date_end = "2019-06-30"
   description = """Work on regional study about fiscal policy in LAC."""
 
