@@ -80,7 +80,7 @@ user_groups:
 
 Hi, thank you for visiting my website!
 
-I am a Ph.D. candidate in economics at CUNY Graduate Center and consultant at the World Bank since 2018. I have more than seven years of work experience and have previously worked at the Central Bank of Chile and the Inter-American Development Bank. You can find my CV here [PDF](cv/cv.pdf).
+I am a Ph.D. candidate in economics at CUNY Graduate Center and consultant at the World Bank since 2018. I have more than seven years of work experience and have previously worked at the Central Bank of Chile and the Inter-American Development Bank. You can download my CV [here](https://www.erciomunoz.org/files/Munoz_resume.pdf).
 
 My fields of specialization are human resource economics and applied econometrics. My dissertation is on educational intergenerational mobility in Latin America and the Caribbean. A second theme of my research concerns measurement and statistical inference issues in applied work. I have a balanced portfolio that applies a diverse set of econometric techniques to topics spanning intergenerational mobility, earnings inequality, gender gaps, survey nonresponse, incumbency advantage, statistical inference in finance, and sports economics. 
 
