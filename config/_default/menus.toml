@@ -37,6 +37,11 @@
   name = "Talks"
   url = "#presentations"
   weight = 41  
+  
+[[main]]
+  name = "Software"
+  url = "#software"
+  weight = 42    
 
 #[[main]]
 #  name = "Contact"
