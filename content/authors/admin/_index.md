@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Ph.D. Candidate, CUNY Graduate Center
 
 # Organizations/Affiliations
 organizations:
-- name: CUNY Graduate Center
+- name: Consultant, the World Bank
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
