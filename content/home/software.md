@@ -50,7 +50,7 @@ subtitle = ""
 
 I've co-authored and published two new Stata commands and their associated papers. They address survey nonresponse and sample selection in quantile regressions.
 
-***kmr.ado:*** ([code](https://github.com/erciomunoz/kmr) [paper](https://stonecenter.gc.cuny.edu/files/2019/01/SCWP02_kmr-A-Command-to-Correct-Survey-Weights-for-Unit-Nonresponse-using-Group%E2%80%99s-Response-Rates.pdf))
+***kmr.ado*** ([code](https://github.com/erciomunoz/kmr) [paper](https://stonecenter.gc.cuny.edu/files/2019/01/SCWP02_kmr-A-Command-to-Correct-Survey-Weights-for-Unit-Nonresponse-using-Group%E2%80%99s-Response-Rates.pdf))
 
 This command implements Korinek, Mistiaen and Ravallion (2007). This command allows the user to estimate a micro compliance function using groups' nonresponse rates, which can be used to correct survey weights for unit nonresponse. To install it within Stata type "net install st0634.pkg".
 
