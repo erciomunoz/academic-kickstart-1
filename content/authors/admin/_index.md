@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. (c), CUNY Graduate Center
+role: Ph.D. Candidate, CUNY
 
 # Organizations/Affiliations
 organizations:
