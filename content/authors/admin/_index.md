@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ercio Munoz
+name: Ercio A. Munoz
 
 # Username (this should match the folder name)
 authors:
