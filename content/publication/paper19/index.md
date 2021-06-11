@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Submitted.**
+publication: "**Revisions requested.**
 *Presentations: CUNY Graduate Center 2020*"
 publication_short: ""
 
@@ -32,7 +32,7 @@ tags:
 - Winner  effect 
 - Sports 
 - Quasi experiments
-- OWP
+- WP
 featured: false
 
 # links:
