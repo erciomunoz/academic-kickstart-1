@@ -84,4 +84,4 @@ I am a Ph.D. candidate in economics at CUNY Graduate Center and consultant at th
 
 My fields of specialization are human resource economics and applied econometrics. My dissertation is on educational intergenerational mobility in Latin America and the Caribbean. A second theme of my research concerns measurement and statistical inference issues in applied work. I have a balanced portfolio that applies a diverse set of econometric techniques to topics spanning intergenerational mobility, earnings inequality, gender gaps, survey nonresponse, incumbency advantage, statistical inference in finance, and sports economics. 
 
-I have a strong interest in empirical methods and have co-authored two new Stata commands that address survey nonresponse and sample selection in quantile regressions. 
+I have an interest in empirical methods and have co-authored two Stata commands that address survey nonresponse and sample selection in quantile regressions. 
