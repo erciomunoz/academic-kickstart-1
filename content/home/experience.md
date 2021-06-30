@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2018-01-01"
   date_end = "2021-05-31"
-  description = """Working mostly on survey nonresponse and in the creation of a comprehensive data set about wealth inequality."""
+  description = """Working mostly on unit nonresponse bias in survey data and in the creation of a comprehensive data set about wealth inequality."""
 
 [[experience]]
   title = "Short Term Consultant at the Macroeconomics, Trade & Investment Global Practice"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2018-07-01"
   date_end = "2019-06-30"
-  description = """Work on regional study about fiscal policy in LAC."""
+  description = """Work on background papers for a regional study about fiscal policy in LAC."""
 
 [[experience]]
   title = "Consultant at the Labor Markets Division"
