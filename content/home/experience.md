@@ -18,7 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Consultant at the Development Research Group (Poverty and Inequality)"
+  title = "Extended Term Consultant at the Poverty and Equity Global Practice"
+  company = "The World Bank"
+  company_url = ""
+  location = "Washington DC"
+  date_start = "2021-07-01"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Short Term Consultant at the Development Research Group (Poverty and Inequality)"
   company = "The World Bank"
   company_url = ""
   location = "Washington DC"
@@ -36,7 +45,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Consultant at the Macroeconomics, Trade & Investment Global Practice"
+  title = "Short Term Consultant at the Macroeconomics, Trade & Investment Global Practice"
   company = "The World Bank"
   company_url = ""
   location = "Washington DC"
@@ -54,7 +63,7 @@ date_format = "Jan 2006"
   description = """Work on earnings inequality using administrative data."""
 
 [[experience]]
-  title = "Consultant at the Development Research Group (Human Development)"
+  title = "Short Term Consultant at the Development Research Group (Human Development)"
   company = "The World Bank"
   company_url = ""
   location = "Washington DC"
