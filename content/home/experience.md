@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2019-05-01"
   date_end = "2021-06-30"
-  description = """Working on intergenerational socioeconomic mobility."""
+  description = """Working mostly on intergenerational socioeconomic mobility."""
 
 [[experience]]
   title = "Research associate"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2018-01-01"
   date_end = "2021-05-31"
-  description = """"""
+  description = """Working mostly on survey nonresponse and in the creation of a comprehensive data set about wealth inequality."""
 
 [[experience]]
   title = "Short Term Consultant at the Macroeconomics, Trade & Investment Global Practice"
