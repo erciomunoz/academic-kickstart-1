@@ -49,7 +49,7 @@ subtitle = ""
 +++
 
 1. November 2021: Southern Economic Association
-+ July 2021: Development Bank of Latin America (CAF)
++ August 2021: Development Bank of Latin America (CAF)
 + July 2021: Ninth ECINEQ Meeting
 + June 2021: Western Economic Association Annual Conference
 + June 2021: Canadian Economics Association Conference 
