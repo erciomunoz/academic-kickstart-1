@@ -14,7 +14,7 @@ role: Ph.D. Candidate, CUNY
 
 # Organizations/Affiliations
 organizations:
-- name: Consultant, the World Bank
+- name: ETC, the World Bank
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,9 +22,8 @@ bio: My research interests include applied econometrics, political economy, and 
 
 interests:
 - Labor economics
-- Socioeconomic inequality
+- Development economics
 - Applied econometrics
-- Political economy
 - Sports economics
 
 education:
