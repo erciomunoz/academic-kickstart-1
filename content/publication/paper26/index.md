@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Neighborhoods on Educational Intergenerational Mobility: Evidence from Latin America and the Caribbean"
+title: "Does it Matter Where You Grow up? Evidence of Childhood Exposure Effects in Latin America and the Caribbean"
 authors:
 - admin
 date: "2020-12-02T01:00:00Z"
