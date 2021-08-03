@@ -48,7 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. November 2021: Southern Economic Association
+1. January 2022: AEA Annual Meeting (AEA's poster session)
++ November 2021: Southern Economic Association
 + August 2021: Development Bank of Latin America (CAF)
 + July 2021: Ninth ECINEQ Meeting
 + June 2021: Western Economic Association Annual Conference
