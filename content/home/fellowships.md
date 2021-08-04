@@ -48,20 +48,20 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Dissertation selected for presentation at Inside the Graduate Center: A Dissertation Showcase 2021
+1. Mario Capelloni Dissertation Fellowship, award ($25K) for students of high academic merit who show exceptional promise in their field, CUNY, 2021 
++ Dissertation selected for presentation at Inside the Graduate Center: A Dissertation Showcase 2021
 + Development Bank of Latin America Research Grant ($2K)
-+ Mario Capelloni Dissertation Fellowship, award ($25K) for students of high academic merit who show exceptional promise in their field, CUNY, 2021
 + Provost’s University Fellowship ($5.5K), CUNY, Spring 2021
-+ Center for Latin American, Caribbean, and Latino Studies Research Grant ($1.5K), CUNY, 2021
++ CLACLS Research Grant ($1.5K), CUNY, 2021
 + Doctoral Student Research Grant ($1.3K), CUNY, Spring 2021
 + Doctoral Student Research Grant ($1K), CUNY, Spring 2019
 + CGU Dissertation Workshop (selected to participate and funded), 2019
 + SSSI at the University of Bonn (selected to participate and funded), 2018
 + LIS Introductory Workshop (selected to participate and funded), 2018
-+ Advanced Research Collaborative Student research praxis award ($4K), CUNY, Spring 2018
++ ARC Student research praxis award ($4K), CUNY, Spring 2018
 + Graduate Center Fellowship (tuition and stipend), CUNY 2016–2021
 + Merit-based fellowship (tuition and stipend), Georgetown University, 2014–2015
 + Tuition fellowship (100%), Graduate School of Business, Universidad de Chile, 2009
 + Scholarship based on socioeconomic background, FEN, Universidad de Chile, 2004–2008
-+ Tuition fellowship (~50%) based on merit and socioeconomic background, Ministry of Education, 2004–2008
-+ Scholarship based on university admission test score, Local Gov. of Cauquenes, 2004–2008
++ Tuition fellowship (~50%) based on merit and SE background, Ministry of Education, 2004–2008
++ Scholarship based on university admission test, Local Gov. of Cauquenes, 2004–2008
