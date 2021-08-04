@@ -61,7 +61,7 @@ subtitle = ""
 + ARC Student research praxis award ($4K), CUNY, Spring 2018
 + Graduate Center Fellowship (tuition and stipend), CUNY 2016–2021
 + Merit-based fellowship (tuition and stipend), Georgetown University, 2014–2015
-+ Tuition fellowship (100%), Graduate School of Business, Universidad de Chile, 2009
++ MA tuition fellowship (100%), FEN, Universidad de Chile, 2009
 + Scholarship based on socioeconomic background, FEN, Universidad de Chile, 2004–2008
 + Tuition fellowship (~50%) based on merit and SE background, Ministry of Education, 2004–2008
 + Scholarship based on university admission test, Local Gov. of Cauquenes, 2004–2008
