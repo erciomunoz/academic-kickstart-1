@@ -32,16 +32,21 @@
   name = "Work experience"
   url = "#experience"
   weight = 40
-  
+
+[[main]]
+  name = "Fellowships"
+  url = "#fellowships"
+  weight = 41  
+
 [[main]]
   name = "Talks"
   url = "#presentations"
-  weight = 41  
+  weight = 42  
   
 [[main]]
   name = "Software"
   url = "#software"
-  weight = 42    
+  weight = 43    
 
 #[[main]]
 #  name = "Contact"
