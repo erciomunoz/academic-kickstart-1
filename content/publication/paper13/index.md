@@ -2,7 +2,7 @@
 title: "Incumbency Advantage, Money, and Campaigns: A Note on Some Suggestive Evidence from Chile"
 authors:
 - admin
-date: "2021-05-01T00:00:00Z"
+date: "2021-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Forthcoming at Economics Bulletin***"
+publication: "***Economics Bulletin 2021***"
 publication_short: ""
 
 abstract: This paper uses a regression discontinuity design to estimate the causal effect of incumbency status on the unconditional probability of winning a mayoral election in Chile. Moreover, it studies how this probability varies over time, and after a reform in the political campaign law that limited advertisement and modified how campaigns were financed. I find a significant incumbency advantage only after the reform implemented in 2016. For the mayoral elections between 1996 and 2012, I do not find a statistically significant advantage but in the 2016 election being the incumbent increases significantly the unconditional probability of being elected by 38 percentage points. This finding suggests, although not conclusively, that the reform benefited the incumbents.
