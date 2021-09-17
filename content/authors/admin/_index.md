@@ -18,13 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied econometrics, political economy, and socioeconomic inequality.
+bio: My research interests include labor economics, applied econometrics, and development economics.
 
 interests:
 - Labor economics
-- Development economics
 - Applied econometrics
-- Sports economics
+- Development economics
 
 education:
   courses:
