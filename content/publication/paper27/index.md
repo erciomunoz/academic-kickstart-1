@@ -3,11 +3,11 @@ title: "Assessing Coresidency Bias in Intergenerational Mobility Estimates that 
 authors:
 - admin
 - Mariel Siravegna
-date: "2020-12-02T01:00:00Z"
+date: "2021-12-02T01:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-02-01T00:00:00Z"
+publishDate: "2021-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2020-02-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Draft available upon request.**"
+publication: "**Draft available upon request**"
 publication_short: ""
 
 abstract: 
