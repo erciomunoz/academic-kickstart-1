@@ -1,5 +1,5 @@
 ---
-title: "Assessing Coresidency Bias in Intergenerational Mobility Estimates that Use Census Data"
+title: "Assessing Coresidence Bias in Intergenerational Mobility Estimates that Use Census Data"
 authors:
 - admin
 - Mariel Siravegna
