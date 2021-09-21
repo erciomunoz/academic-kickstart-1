@@ -49,6 +49,7 @@ subtitle = ""
 +++
 
 1. January 2022: AEA Annual Meeting (AEA's poster session)
++ December 2021: Second World Inequality Conference
 + November 2021: Southern Economic Association
 + October 2021: LACEA Annual Meeting
 + September 2021: CAF academic workshop RED 2022: Intergenerational mobility in Latin America 
