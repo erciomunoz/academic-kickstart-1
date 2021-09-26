@@ -78,7 +78,7 @@ user_groups:
 
 Hi, thank you for visiting my website!
 
-I am an economist currently working in the Poverty and Equity Global practice at the World Bank. In my current role, I mostly work on fiscal incidence analysis and the implementation of a macro-micro modelling framework to analyze the distributional/poverty implications of climate change and related policies. I have more than seven years of work experience and have previously worked at the Central Bank of Chile and the Inter-American Development Bank. You can download my CV [here](https://www.erciomunoz.org/files/Munoz_resume.pdf).
+I am an economist currently working in the Poverty and Equity Global Practice at the World Bank. In my current role, I mostly work on fiscal incidence analysis and the implementation of a macro-micro modeling framework to analyze the distributional/poverty implications of climate change and related policies. I have more than seven years of work experience and have previously worked at the Central Bank of Chile and the Inter-American Development Bank. You can download my CV [here](https://www.erciomunoz.org/files/Munoz_resume.pdf).
 
 I am a Ph.D. candidate in economics at CUNY Graduate Center. My fields of specialization are human resource economics and applied econometrics. My dissertation is on educational intergenerational mobility in Latin America and the Caribbean. A second theme of my research concerns measurement and statistical inference issues in applied work. I have a balanced portfolio that applies a diverse set of econometric techniques to topics spanning intergenerational mobility, earnings inequality, gender gaps, survey nonresponse, incumbency advantage, statistical inference in finance, and sports economics. 
 
