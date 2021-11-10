@@ -15,10 +15,10 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Draft available upon request.** *Presentations (including scheduled): CUNY Graduate Center, Development Bank of Latin America, RED 2022 Academic Workshop, and Second World Inequality Conference*"
+publication: "*Presentations (including scheduled): CUNY Graduate Center, Development Bank of Latin America, RED 2022 Academic Workshop, and Second World Inequality Conference*"
 publication_short: ""
 
-abstract: This paper studies whether the observed differences across regions in upward intergenerational mobility in education in Latin America and the Caribbean (LAC) can be attributed to the sorting of families or the effect of growing up in these different regions. I exploit differences in the age of children at the time their families move across regions to isolate regional childhood exposure effects from sorting. I use 21 censuses that span 11 countries in LAC and measure upward mobility as the likelihood of obtaining at least a primary education for individuals whose parents did not finish primary school. I find a convergence rate of 3.5% per year of exposure between the ages 1 to 11, implying that children who move at the age of 1 would pick up 35% of the observed differences in upward mobility between their region of origin and region of destination. In addition, I find significant selection effects of approximately 42%. These results are robust to using a specification that identifies the effect of place within households (i.e., a comparison of siblings with different exposure to places). It is also robust to using a subset of data that consists of only anomalously high migration outflows, instrumenting the choice of destination with historical migration, and a combination of both approaches. Finally, I also document regional childhood exposure effects in upward mobility using individuals age 18-25 when secondary education is the level of interest. I find convergence rates that are higher and imply that children by the age of 18 may pick up approximately 90% of the difference in IGM when they move at age 1.
+abstract: I study whether the observed differences in intergenerational educational mobility across regions in Latin America and the Caribbean are due to the sorting of families or the effect of growing up in these different places. I exploit differences in the age of children at the time their families move across locations to isolate regional childhood exposure effects from sorting. I find a convergence rate of 3.5% per year of exposure between age 1 to 11, implying that children who move at the age of 1 would pick up 35% of the observed differences in mobility between origin and destination. These results are robust to using a specification that identifies the effect of place within households, the use of only anomalously high migration outflows, instrumenting the choice of destination with historical migration, and a combination of both approaches.
 
 # Summary. An optional shortened abstract.
 # summary: Draft coming soon.
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
-# url_pdf: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
+url_pdf: https://www.erciomunoz.org/files/Draft_IGM_exposure.pdf
 url_code: ''
 url_dataset: ''
 # url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
