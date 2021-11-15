@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "**Draft available upon request**"
 publication_short: ""
 
-abstract: Measurement of intergenerational mobility (IGM) in education requires information about children's educational attainment linked to the attainment of their parents. Several economies do not offer better data alternatives than the use of coresident samples (i.e., samples with this link only available for individuals living with their parents), which may yield biased estimates. A recent paper concludes that the intergenerational correlation measure is less biased than the intergenerational regression, and researchers should move away from using the latter. We revisit this claim and offer empirical evidence against it. In addition, we use two sources of data for 18 countries to provide evidence of the extent of coresidence bias on an extensive set of IGM indicators of absolute mobility, relative mobility, and movement. We compare estimates with retrospective information using a social survey against those obtained with coresident samples using census data for the same countries and birth cohorts. We show that there are indicators with varying levels of coresidence bias going from less than 1% to more than 10%. Still, some indicators of mobility with minimal bias produce high levels of re-ranking that make them uninformative to rank economies by level of mobility while other indicators with a large bias produce more reliable rankings.
+abstract: Measurement of intergenerational mobility (IGM) in education requires linked information about children's and parents' educational attainment. However, several economies do not offer better data alternatives to estimate IGM than the use of coresident samples (i.e., samples with this link only available for individuals living with their parents), which may yield biased estimates. In this line, a recently published paper concludes that the intergenerational correlation coefficient is less biased than the intergenerational regression coefficient as a measure of relative IGM, and researchers should move away from using the latter. We revisit this claim and offer empirical evidence against it. In addition, we use two data sources for 18 countries to provide evidence of the extent of coresidence bias on an extensive set of IGM indicators of absolute mobility, relative mobility, and movement. We compare estimates with retrospective information using a social survey against those obtained with coresident samples using census data for the same countries and birth cohorts. We show that there are indicators with varying levels of coresidence bias going from less than 1% to more than 10%. Still, some mobility indicators with minimal bias produce high levels of re-ranking that make them uninformative to rank economies by the level of IGM. In contrast, other indicators with a large bias have more reliable rankings.
 
 # Summary. An optional shortened abstract.
 # summary: Draft coming soon.
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
-# url_pdf: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
+# url_pdf: https://www.erciomunoz.org/files/Draft_IGM_coresidence.pdf
 url_code: ''
 url_dataset: ''
 # url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
