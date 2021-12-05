@@ -41,7 +41,7 @@ url_code: ''
 url_dataset: ''
 # url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
 # url_project: https://erciomunoz.shinyapps.io/IGM_LAC/
-url_slides: ''
+url_slides: https://www.erciomunoz.org/files/Slides___Childhood_exposure_effects_on_IGM.pdf
 url_source: ''
 url_video: ''
 
