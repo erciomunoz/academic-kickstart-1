@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Presentations: CUNY Graduate Center 2020, and WEAI 2021*"
+publication: "**Submitted.** *Presentations: CUNY Graduate Center 2020, and WEAI 2021*"
 publication_short: ""
 
 abstract: I estimate intergenerational mobility (IGM) in education at a disaggregated geographic level for a cohort born within the nineties using full-count census microdata from Chile. I document wide variation across more than three hundred communes in eight measures of IGM. Relative mobility measured as one minus the correlation coefficient between children's years of schooling and parents' years of schooling ranges between 0.50 and 0.96. Relative mobility is positively correlated to the number of doctors, and negatively correlated to the ratio of students per teacher, and to labor earnings inequality, especially in the upper half of the income distribution. Using a LASSO, I find that the share of students enrolled in public schools, the numnber of students per teacher, the number of doctors, and municipal budget, among others, are the strongest predictors of IGM. In addition, I also document within country variability in how parental education affects other child’s outcomes such as attending tertiary education and being mother as a teenager in the case of females.
