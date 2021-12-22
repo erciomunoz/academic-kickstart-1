@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include labor economics, applied econometrics, and development economics.
 
 interests:
-- Labor economics
-- Applied econometrics
+- Applied microeconomics
 - Development economics
+- Labor economics
 
 education:
   courses:
