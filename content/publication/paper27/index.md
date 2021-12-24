@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
-# url_pdf: https://www.erciomunoz.org/files/Draft_IGM_coresidence.pdf
+url_pdf: https://www.erciomunoz.org/files/Draft_IGM_Coresidence_bias.pdf
 url_code: ''
 url_dataset: ''
 # url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
