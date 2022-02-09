@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate, CUNY
+role: Extended-term consultant
 
 # Organizations/Affiliations
 organizations:
-- name: ETC, the World Bank
+- name: The World Bank
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include labor economics, applied econometrics, and development economics.
+bio: My research interests include applied microeconomics, labor economics, and development economics.
 
 interests:
 - Applied microeconomics
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: CUNY Graduate Center
-    year: 2016-
+    year: 2016-2022
   - course: M.Phil. in Economics
     institution: CUNY Graduate Center
     year: 2019
@@ -81,5 +81,5 @@ user_groups:
 
 Hi, thank you for visiting my website!
 
-I am an economist currently working at the Poverty and Equity Global Practice of the World Bank. In my current role, I mostly work on fiscal incidence analysis and the implementation of a macro-micro modeling framework to analyze the distributional/poverty implications of climate change and related policies. I have more than seven years of work experience and have previously worked at the Central Bank of Chile and the Inter-American Development Bank. You can download my CV [here](https://www.erciomunoz.org/files/Munoz_resume.pdf).
+I am an economist working at the Poverty and Equity Global Practice of the World Bank. In my current role, I work on fiscal incidence analysis and the implementation of a macro-micro modeling framework to analyze the distributional implications of climate change and related policies. You can download my CV [here](https://www.erciomunoz.org/files/Munoz_resume.pdf).
 
