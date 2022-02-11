@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: CUNY Graduate Center
-    year: 2016-2022
+    year: 2022
   - course: M.Phil. in Economics
     institution: CUNY Graduate Center
     year: 2019
