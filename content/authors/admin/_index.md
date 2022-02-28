@@ -81,5 +81,5 @@ user_groups:
 
 Hi, thank you for visiting my website!
 
-I am an economist working at the Poverty and Equity Global Practice of the World Bank. In my current role, I work on fiscal incidence analysis and the implementation of a macro-micro modeling framework to analyze the distributional implications of climate change and related policies. You can download my CV [here](https://www.erciomunoz.org/files/Munoz_resume.pdf).
+I am an economist working at the Poverty and Equity Global Practice of the World Bank. You can download my CV [here](https://www.erciomunoz.org/files/Munoz_resume.pdf).
 
