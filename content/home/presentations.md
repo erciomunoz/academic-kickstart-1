@@ -48,7 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. May 2022: Society of Labor Economists Annual Conference
+1. June 2022: Canadian Economics Association Conference
++ May 2022: Society of Labor Economists Annual Conference
 + January 2022: AEA Annual Meeting (AEA's poster session)
 + December 2021: Second World Inequality Conference
 + November 2021: Southern Economic Association
