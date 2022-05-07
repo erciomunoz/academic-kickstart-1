@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
-url_pdf: https://www.erciomunoz.org/files/Draft_IGM_exposure.pdf
+url_pdf: http://documents1.worldbank.org/curated/en/099759305062223937/pdf/IDU0f0564ccc089dd0461a09ecf07541e9798c35.pdf
 url_code: ''
 url_dataset: ''
 # url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
