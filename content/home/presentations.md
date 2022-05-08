@@ -49,6 +49,7 @@ subtitle = ""
 +++
 
 1. June 2022: Canadian Economics Association Conference
++ May 2022: Universidad Diego Portales
 + May 2022: Society of Labor Economists Annual Conference
 + January 2022: AEA Annual Meeting (AEA's poster session)
 + December 2021: Second World Inequality Conference
