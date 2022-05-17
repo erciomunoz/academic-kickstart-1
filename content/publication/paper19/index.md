@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Revision requested at Journal of Quantitative Analysis in Sports (2nd round) .**
+publication: "**Revision requested at Journal of Quantitative Analysis in Sports (2nd round).**
 *Presentations: CUNY Graduate Center 2020*"
 publication_short: ""
 
