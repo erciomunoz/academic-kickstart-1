@@ -1,5 +1,5 @@
 ---
-title: "Does it Matter Where You Grow up? Childhood Exposure Effects in Latin America and the Caribbean"
+title: "Does It Matter Where You Grow Up? Childhood Exposure Effects in Latin America and the Caribbean"
 authors:
 - admin
 date: "2021-01-01T01:00:00Z"
