@@ -15,7 +15,7 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Submitted.** *Presentations (including scheduled): CUNY Graduate Center, Development Bank of Latin America, RED 2022 Academic Workshop, Second World Inequality Conference, and SOLE 2022*"
+publication: "**Submitted.** *Presentations (including scheduled): CUNY Graduate Center, Development Bank of Latin America, RED 2022 Academic Workshop, Second World Inequality Conference, SOLE 2022, and Universidad Diego Portales.*"
 publication_short: ""
 
 abstract: I study whether the observed differences in intergenerational educational mobility across regions in Latin America and the Caribbean are due to the sorting of families or the effect of growing up in these different places. I exploit differences in the age of children at the time their families move across locations to isolate regional childhood exposure effects from sorting. I find a convergence rate of 3.5% per year of exposure between age 1 to 11, implying that children who move at the age of 1 would pick up 35% of the observed differences in mobility between origin and destination. These results are robust to using a specification that identifies the effect of place within households, the use of only anomalously high migration outflows, instrumenting the choice of destination with historical migration, and a combination of both approaches.
