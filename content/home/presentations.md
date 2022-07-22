@@ -48,7 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. October 2022: WIDER Development Conference in partnership with UNIANDES: Reducing inequality – the great challenge of our time
+1. January 2023: AEA Annual Meeting (AEA's poster session)
++ October 2022: WIDER Development Conference in partnership with UNIANDES: Reducing inequality – the great challenge of our time
 + August 2022: Stata Conference 
 + June 2022: Canadian Economics Association Conference
 + May 2022: Universidad Diego Portales
