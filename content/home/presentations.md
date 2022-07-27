@@ -50,6 +50,7 @@ subtitle = ""
 
 1. January 2023: AEA Annual Meeting (AEA's poster session)
 + October 2022: WIDER Development Conference in partnership with UNIANDES: Reducing inequality – the great challenge of our time
++ September 2022: 16th North American Meeting of the Urban Economics Association
 + August 2022: Stata Conference 
 + June 2022: Canadian Economics Association Conference
 + May 2022: Universidad Diego Portales
