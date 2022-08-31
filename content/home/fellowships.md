@@ -48,7 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. IPUMS International Research Award 2021  
+1. Travel grant to present at the WIDER Development Conference 2022 in Colombia
++ IPUMS International Research Award 2021  
 + Mario Capelloni Dissertation Fellowship, award ($25K) for students of high academic merit who show exceptional promise in their field, CUNY, 2021 
 + Dissertation selected for presentation at Inside the Graduate Center: A Dissertation Showcase 2021
 + Development Bank of Latin America Research Grant ($2K)
