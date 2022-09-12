@@ -49,17 +49,17 @@ subtitle = ""
 +++
 
 1. Travel grant to present at the WIDER Development Conference 2022 in Colombia
-+ IPUMS International Research Award 2021  
++ IPUMS International Research Award 2021 (best graduate student paper)  
 + Mario Capelloni Dissertation Fellowship, award ($25K) for students of high academic merit who show exceptional promise in their field, CUNY, 2021 
 + Dissertation selected for presentation at Inside the Graduate Center: A Dissertation Showcase 2021
 + Development Bank of Latin America Research Grant ($2K)
 + Provost’s University Fellowship ($5.5K), CUNY, Spring 2021
-+ CLACLS Research Grant ($1.5K), CUNY, 2021
++ Center for Latin American, Caribbean, and Latino Studies Research Grant ($1.5K), CUNY, 2021
 + Doctoral Student Research Grant ($1.3K), CUNY, Spring 2021
 + Doctoral Student Research Grant ($1K), CUNY, Spring 2019
-+ CGU Dissertation Workshop (selected to participate and funded), 2019
-+ SSSI at the University of Bonn (selected to participate and funded), 2018
-+ LIS Introductory Workshop (selected to participate and funded), 2018
++ Travel grant to attend the CGU Dissertation Workshop, 2019
++ Travel grant to attend the HCEO Summer School on Socioeconomic Inequality at the University of Bonn, 2018
++ Travel grant to attend the LIS Introductory Workshop in Luxembourg, 2018
 + ARC Student research praxis award ($4K), CUNY, Spring 2018
 + Graduate Center Fellowship (tuition and stipend), CUNY 2016–2021
 + Merit-based fellowship (tuition and stipend), Georgetown University, 2014–2015
