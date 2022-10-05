@@ -14,10 +14,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Revision requested at Journal of Quantitative Analysis in Sports (3rd round).**
+publication: "***Accepted at Journal of Quantitative Analysis in Sports***
 *Presentations: CUNY Graduate Center 2020*"
 publication_short: ""
 
@@ -29,10 +29,10 @@ summary: Draft coming soon.
 tags:
 - Regression  discontinuity  design
 - Attendance
-- Winner  effect 
+- Winner effect 
 - Sports 
 - Quasi experiments
-- WP
+- I
 featured: false
 
 # links:
