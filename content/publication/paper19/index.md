@@ -18,7 +18,6 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "***Accepted at Journal of Quantitative Analysis in Sports***
-*Presentations: CUNY Graduate Center 2020*"
 publication_short: ""
 
 abstract: Previous studies show that bettors and competitors alike believe that momentum carries over positively between contests in major league sports. This article applies a regression discontinuity design to estimate the causal effect of a win on the attendance of subsequent games in professional basketball. Using National Basketball Association data from 1981 to 2018, we find that home team fan bases react to a recent victory, with an increase in attendance of approximately 425 tickets. The increment is approximately one-eighth of a recent estimate of the superstar effect. We do not find an attendance effect when the visiting team has a recent victory. The positive fan base response to narrow home wins relative to narrow losses suggests that like bettors, fans believe in momentum, and that recent luck is rewarded in sporting attendance. We document a gradual decline in the attendance effect that coincides with the rise of secondary markets and dynamic ticket pricing.
