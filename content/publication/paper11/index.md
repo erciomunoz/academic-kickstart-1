@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Submitted.**
+publication: "**Rej and resubmit.**
 *Presentations: CUNY Graduate Center 2020 and EEA 2020*"
 publication_short: ""
 
