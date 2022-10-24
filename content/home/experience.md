@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Washington DC"
   date_start = "2021-07-01"
-  date_end = ""
-  description = """"""
+  date_end = "2022-10-31"
+  description = """Development of a state-of-the-art microsimulation model for distributional impacts of climate change and climate action that is being used in several CCDRs (e.g., Vietnam, Rwanda, Sahel, the Philippines, among others). Support in training staff about the use of macro-micro models for distributional impacts of climate change by preparing sessions for the community of practice in the Poverty GP and sessions in the World Bank “Learning Days”. Lead a CEQ assessment and the creation a fiscal simulation tool for Tanzania."""
 
 [[experience]]
   title = "Short Term Consultant at the Development Research Group (Poverty and Inequality)"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2019-05-01"
   date_end = "2021-06-30"
-  description = """Working mostly on intergenerational socioeconomic mobility."""
+  description = """Co-authored a paper about intergenerational income mobility that required harmonizing more than 60 household surveys and writing several ado-files to produce estimates using two-sample two-stage least squares. Helped with paper that required identifying, obtaining, and working with ten complex longitudinal surveys."""
 
 [[experience]]
   title = "Research Associate"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2018-01-01"
   date_end = "2021-05-31"
-  description = """Working mostly on unit nonresponse bias in survey data and in the creation of a comprehensive data set about wealth inequality."""
+  description = """Co-authored two research papers related to unit nonresponse in surveys. Supported the creation of the GC Wealth Inequality Dashboard by putting together a data set of wealth inequality from different sources for many countries."""
 
 [[experience]]
   title = "Short Term Consultant at the Macroeconomics, Trade & Investment Global Practice"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2018-07-01"
   date_end = "2019-06-30"
-  description = """Work on background papers for a regional study about fiscal policy in LAC."""
+  description = """Co-authored two background papers for a report on LAC's fiscal policy and supported the report's preparation."""
 
 [[experience]]
   title = "Consultant at the Labor Markets Division"
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2016-03-01"
   date_end = "2016-08-30"
-  description = """Work on earnings inequality using administrative data."""
+  description = """Co-authored a paper about wage inequality using employer-employee data in Latin America."""
 
 [[experience]]
   title = "Short Term Consultant at the Development Research Group (Human Development)"
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2016-03-01"
   date_end = "2016-08-30"
-  description = """Work on pension knowledge adquisition."""
+  description = """Provided research assistance for a project related to pension knowledge acquisition using a longitudinal survey."""
 
 [[experience]]
   title = "Economic and Financial Analyst at the Research Division"
@@ -78,5 +78,5 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2010-02-01"
   date_end = "2014-08-30"
-  description = """Research, forecasting, and adviser of a board member."""
+  description = """Developed a research agenda on forecasting that resulted in 6 peer-reviewed papers and 3 working papers. Worked as an adviser to the board member Joaquin Vial. Constructed the international macroeconomic scenario relevant for Chile in each monetary policy report"""
 +++
