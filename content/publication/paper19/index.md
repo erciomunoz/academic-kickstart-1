@@ -39,7 +39,7 @@ featured: false
 # - name: ""
 # url_map: ""
 url_pdf: https://www.erciomunoz.org/files/Draft_attendance.pdf
-url_journal: https://www.degruyter.com/document/doi/10.1515/jqas-2020-0092/html
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
