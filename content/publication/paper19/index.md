@@ -17,11 +17,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***[Journal of Quantitative Analysis in Sports](https://doi.org/10.1515/jqas-2020-0092)***"
+publication: "**[Journal of Quantitative Analysis in Sports](https://doi.org/10.1515/jqas-2020-0092)**"
 
 publication_short: ""
 
-abstract: Previous studies show that bettors and competitors alike believe that momentum carries over positively between contests in major league sports. This article applies a regression discontinuity design to estimate the causal effect of a win on the attendance of subsequent games in professional basketball. Using National Basketball Association data from 1981 to 2018, we find that home team fan bases react to a recent victory, with an increase in attendance of approximately 425 tickets. The increment is approximately one-eighth of a recent estimate of the superstar effect. We do not find an attendance effect when the visiting team has a recent victory. The positive fan base response to narrow home wins relative to narrow losses suggests that like bettors, fans believe in momentum, and that recent luck is rewarded in sporting attendance. We document a gradual decline in the attendance effect that coincides with the rise of secondary markets and dynamic ticket pricing.
+abstract: This article studies whether a recent victory impacts attendance at sports events. We apply a regression discontinuity design to estimate the local average treatment effect of a win on the attendance of subsequent games in professional basketball. Using National Basketball Association data from seasons 1980-81 to 2017-18, we find that home team fan bases react to recent outcomes, with an increase in attendance of approximately 425 attendants (a 3 percent boost) following a close win relative to a close loss. The increment is approximately one-eighth of a recent estimate of the superstar effect. We do not find an attendance effect when the visiting team has a recent victory, which provides evidence against the existence of externalities. The positive fan base response to narrow home wins relative to narrow losses suggests that recent luck is rewarded in sporting attendance. We discuss possible mechanisms and document a gradual decline in the attendance response that coincides with the rise of alternative means for viewing games and secondary markets for tickets.
 
 # Summary. An optional shortened abstract.
 summary: Draft coming soon. 
