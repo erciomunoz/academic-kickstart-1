@@ -37,7 +37,7 @@ featured: false
 
 # links:
 - name: DOI
-url: https://doi.org/10.1515/jqas-2020-0092 
+url: 'https://doi.org/10.1515/jqas-2020-0092'
 # - name: ""
 # url_map: ""
 url_pdf: https://www.erciomunoz.org/files/Draft_attendance.pdf
