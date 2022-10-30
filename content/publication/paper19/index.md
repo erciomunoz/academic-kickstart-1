@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**[Journal of Quantitative Analysis in Sports](https://doi.org/10.1515/jqas-2020-0092)**"
+publication: "**Journal of Quantitative Analysis in Sports**"
 
 publication_short: ""
 
@@ -36,7 +36,8 @@ tags:
 featured: false
 
 # links:
-# - name: Published 
+- name: DOI
+url: https://doi.org/10.1515/jqas-2020-0092 
 # - name: ""
 # url_map: ""
 url_pdf: https://www.erciomunoz.org/files/Draft_attendance.pdf
