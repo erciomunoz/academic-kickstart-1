@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Extended-term consultant
+role: Economist
 
 # Organizations/Affiliations
 organizations:
-- name: The World Bank
+- name: The Inter-American Development Bank
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -81,5 +81,5 @@ user_groups:
 
 Hi, thank you for visiting my website!
 
-I am an economist working at the Poverty and Equity Global Practice of the World Bank. You can download my CV [here](https://www.erciomunoz.org/files/Munoz_resume.pdf).
+I am an economist working at the Gender and Diversity Division of the Inter-American Development Bank. You can download my CV [here](https://www.erciomunoz.org/files/Munoz_resume.pdf).
 
