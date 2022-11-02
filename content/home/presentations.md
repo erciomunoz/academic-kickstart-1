@@ -51,7 +51,6 @@ subtitle = ""
 1. January 2023: AEA Annual Meeting (AEA's poster session)
 + November 2022: Southern Economic Association
 + November 2022: LACEA Annual Meetings
-+ October 2022: Midwest Econometrics Group 2022 Conference
 + October 2022: WIDER Development Conference in partnership with UNIANDES: Reducing inequality – the great challenge of our time
 + September 2022: 16th North American Meeting of the Urban Economics Association
 + August 2022: Stata Conference 
