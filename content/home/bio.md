@@ -6,7 +6,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 88 # Order that this section will appear.
 
 title = "Bio"
@@ -48,7 +48,15 @@ subtitle = ""
  css_class = ""
 +++
 
-Here are some data sets that I have used in my research and may be useful for someone interested in the same topics.
+Ercio Munoz is an economist at the Gender and Diversity Division of the Inter-American Development Bank, based in Washington, DC.
 
+His main research areas are intergenerational socioeconomic mobility and measurement issues in studying inequalities in general.
 
+Munoz has published academic articles in diverse fields, such as sports economics, political economy, statistical software, and applied econometrics. He has also contributed to policy reports on fiscal policy, and the impact of climate change and climate action on development.
+
+Before joining the IADB, Munoz worked as an extended-term consultant for the World Bank, as a research associate at the Stone Center on Socioeconomic Inequality In New York, and senior analyst at the Central Bank of Chile. He has taught econometrics at the City College of New York and courses on micro-simulation techniques to staff in the World Bank.
+
+As of October 2022, he was ranked as one of the Top 10 economists by cohort from 2022 by IDEAS/RePEc. In a university-wide competition, his thesis was awarded the Mario Capelloni dissertation fellowship and chosen for the Dissertation Showcase, which celebrates exciting new research happening within CUNY. He also received the IPUMS International Research Award 2021 for the best graduate student paper and got a chapter selected for presentation at the UNU-WIDER Development Conference. Moreover, his research received funding from several grants within CUNY and a grant from the Development Bank of Latin America.
+
+He holds a bachelor’s degree in economics and a master’s in finance from Universidad de Chile, and a master’s in economics from Georgetown University. He also holds a master’s and a doctorate in economics from the City University of New York.
 
