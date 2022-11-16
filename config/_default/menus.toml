@@ -18,6 +18,11 @@
 #  url = "#projects"
 #  weight = 30
 
+#[[main]]
+#  name = "Bio"
+#  url = "#bio"
+#  weight = 19 
+
 [[main]]
   name = "Research"
   url = "#publications0"
@@ -51,12 +56,7 @@
 [[main]]
   name = "Data"
   url = "#data"
-  weight = 44  
-  
-#[[main]]
-#  name = "Bio"
-#  url = "#bio"
-#  weight = 45    
+  weight = 44    
 
 #[[main]]
 #  name = "Contact"
