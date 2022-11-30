@@ -48,8 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. January 2023: AEA Annual Meeting (AEA's poster session)
-+ November 2022: Southern Economic Association
+1. April 2023: Opportunity and Mobility Workshop (III at LSE)
++ January 2023: AEA Annual Meeting (AEA's poster session)
 + November 2022: LACEA Annual Meetings
 + October 2022: WIDER Development Conference in partnership with UNIANDES: Reducing inequality – the great challenge of our time
 + September 2022: 16th North American Meeting of the Urban Economics Association
