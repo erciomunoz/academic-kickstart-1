@@ -50,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:emunozsaavedra@gc.cuny.edu  # For a direct email link, use "mailto:emunozsaavedra@gc.cuny.edu".
+  link: mailto:erciom@iadb.org  # For a direct email link, use "mailto:erciom@iadb.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ercio
