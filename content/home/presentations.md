@@ -48,7 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. July 2023: ISI World Statistics Congress 
+1. January 2024: AEA Anual Meeting 
++ July 2023: ISI World Statistics Congress 
 + July 2023: Tenth ECINEQ Meeting
 + April 2023: Opportunity and Mobility Workshop (III at LSE)
 + January 2023: AEA Annual Meeting (AEA's poster session)
