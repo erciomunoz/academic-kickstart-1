@@ -48,7 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Travel grant to present at the ISI World Statistics Congress in Canada 
+1. Travel grant to present at the Data-Intensive Research Conference in Minneapolis
++ Travel grant to present at the ISI World Statistics Congress in Canada 
 + Travel grant to present at the WIDER Development Conference 2022 in Colombia
 + IPUMS International Research Award 2021 (best graduate student paper)  
 + Mario Capelloni Dissertation Fellowship, award ($25K) for students of high academic merit who show exceptional promise in their field, CUNY, 2021 
