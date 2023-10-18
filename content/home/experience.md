@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Washington DC"
   date_start = "2022-11-01"
   date_end = ""
-  description = """"""
+  description = """Support gender and diversity mainstreaming in operational, analytical, and strategic activities. Lead research on gender and diversity topics. Engage with gender and diversity specialists in other multilateral and bilateral institutions, academic institutions, think tanks, NGOs, and professional bodies to promote collaborations."""
 
 [[experience]]
   title = "Extended Term Consultant at the Poverty and Equity Global Practice (Equity Policy Lab)"
