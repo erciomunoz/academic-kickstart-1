@@ -47,16 +47,21 @@
   name = "Talks"
   url = "#presentations"
   weight = 42  
+
+[[main]]
+  name = "Blogs"
+  url = "#blogs"
+  weight = 43
   
 [[main]]
   name = "Software"
   url = "#software"
-  weight = 43  
+  weight = 44  
   
 [[main]]
   name = "Data"
   url = "#data"
-  weight = 44    
+  weight = 45    
 
 #[[main]]
 #  name = "Contact"
