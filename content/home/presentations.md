@@ -48,7 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. January 2024: AEA Annual Meeting 
+1. July 2024: Expanding LGBTI Economic Development and Empowerment Workshop, Rome
++ January 2024: AEA Annual Meeting 
 + August 2023: Data-Intensive Research Conference
 + July 2023: ISI World Statistics Congress 
 + July 2023: Tenth ECINEQ Meeting
