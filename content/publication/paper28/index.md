@@ -16,7 +16,7 @@ publishDate: "2023-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Presentations (including scheduled): AEA Annual Meeting 2024"
+publication: "Presentations (including scheduled): AEA Annual Meeting 2024 and Expanding LGBTI Economic Development and Empowerment Workshop"
 publication_short: ""
 
 abstract: 
