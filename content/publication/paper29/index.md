@@ -1,5 +1,5 @@
 ---
-title: "Matching Patterns of Same-Sex and Different-Sex Couples in Latin America"
+title: "Matching Patterns among Same-Sex and Different-Sex Couples in Latin America"
 authors:
 - admin
 - Dario Sansone
