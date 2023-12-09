@@ -48,7 +48,7 @@ subtitle = ""
  css_class = ""
 +++
 
-1. [Más y mejores datos: la brújula para la inclusión de diversidad en América Latina y el Caribe](https://blogs.iadb.org/igualdad/es/mas-y-mejores-datos-inclusion-de-diversidad-america-latina-y-el-caribe/)
+1. [Más y mejores datos: la brújula para la inclusión de diversidad en América Latina y el Caribe, con Andrea Monje](https://blogs.iadb.org/igualdad/es/mas-y-mejores-datos-inclusion-de-diversidad-america-latina-y-el-caribe/)
 + [Claudia Goldin: tres claves que aprendimos de su investigación sobre la brecha de género](https://blogs.iadb.org/igualdad/es/claudia-goldin-tres-claves-que-aprendimos-de-su-investigacion-brecha-de-genero/)
 + [Aprendizajes clave sobre la población LGBTQ+ desde la agenda de conocimiento, con Juanita Ardila y Karen Martinez](https://blogs.iadb.org/igualdad/es/poblacion-lgbtq-agenda-de-conocimiento/)
 + [Legado de desigualdad: Brechas en movilidad intergeneracional para afrodescendientes y pueblos indígenas](https://blogs.iadb.org/igualdad/es/legado-de-desigualdad/)
