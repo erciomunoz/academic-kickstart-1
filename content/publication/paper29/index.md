@@ -16,7 +16,7 @@ publishDate: "2023-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Accepted.**"
+publication: "**Accepted**"
 publication_short: ""
 
 abstract: 
