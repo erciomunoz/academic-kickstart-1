@@ -43,7 +43,7 @@ url_dataset: ''
 # url_project: https://erciomunoz.shinyapps.io/IGM_LAC/
 url_slides: https://www.erciomunoz.org/files/Slides___Childhood_exposure_effects_on_IGM.pdf
 url_source: ''
-url_video: ''
+url_video: https://youtu.be/94tPxfXrV-E?feature=shared&t=2448
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
