@@ -49,6 +49,7 @@ subtitle = ""
 +++
 
 1. July 2024: Expanding LGBTI Economic Development and Empowerment Workshop, Rome
++ April 2024: Economics of LGBTQ+ Individuals Virtual Seminar
 + January 2024: AEA Annual Meeting 
 + August 2023: Data-Intensive Research Conference
 + July 2023: ISI World Statistics Congress 
