@@ -13,10 +13,10 @@ publishDate: "2024-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Accepted, American Economic Association Papers and Proceedings**"
+publication: "**American Economic Association Papers and Proceedings**"
 publication_short: ""
 
 abstract: Using microdata from the censuses of eight countries in Latin America (Argentina, Brazil, Chile, Colombia, Guatemala, Mexico, Peru, and Uruguay), this paper describes matching patterns by age, ethnicity, and education among same-sex and different-sex couples. It shows that same-sex couples are more diverse than different-sex couples in terms of age, ethnicity, and education, although for ethnicity and education the differences are not large or statistically significant in all countries. It also reports notable differences between male and female same-sex couples, particularly in age and education matching.
