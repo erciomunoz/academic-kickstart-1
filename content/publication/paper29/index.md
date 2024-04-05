@@ -28,7 +28,6 @@ tags:
 - Homogamy
 - LGBTQ+
 - Latin America
-- WP
 featured: false
 
 # links:
