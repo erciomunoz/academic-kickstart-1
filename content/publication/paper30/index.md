@@ -42,7 +42,7 @@ url_dataset: ''
 # url_project: https://erciomunoz.shinyapps.io/IGM_LAC/
 # url_slides: https://www.erciomunoz.org/files/Slides___IGM_coresidence_bias.pdf
 url_source: ''
-url_video: https://www.aeaweb.org/webcasts/2024/lgbtq-economics-topics
+# url_video: https://www.aeaweb.org/webcasts/2024/lgbtq-economics-topics
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
