@@ -17,7 +17,7 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**In preparation.**"
+publication: "**In preparation**"
 publication_short: ""
 
 abstract: 
