@@ -3,6 +3,7 @@ title: "Socioeconomic Disparities in Latin America among Same-Sex and Different-
 authors:
 - admin
 - Dario Sansone
+- Mayte Ysique
 date: "2024-01-01T01:00:00Z"
 doi: ""
 
@@ -25,7 +26,6 @@ abstract:
 # summary: Draft coming soon.
 
 tags:
-- Inequality
 - LGBTQ+
 - Latin America
 - WP
