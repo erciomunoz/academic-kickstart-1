@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
-# url_pdf: https://www.erciomunoz.org/files/Draft_IGM_Coresidence_bias.pdf
+url_pdf: https://www.aeaweb.org/articles?id=10.1257/pandp.20241042
 url_preprint: https://publications.iadb.org/publications/english/document/Matching-Patterns-among-Same-Sex-and-Different-Sex-Couples-in-Latin-America.pdf
 url_code: ''
 url_dataset: ''
