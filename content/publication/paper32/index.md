@@ -37,7 +37,7 @@ featured: false
 # - name: ""
 #   url: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
 # url_pdf: https://www.erciomunoz.org/files/Draft_IGM_Coresidence_bias.pdf
-# url_preprint: https://publications.iadb.org/en/socio-economic-disparities-sexual-orientation-and-gender-identity-mexico
+url_preprint: https://publications.iadb.org/en/lives-intersex-people-socio-economic-and-health-disparities-mexico
 url_code: ''
 url_dataset: ''
 # url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
