@@ -15,10 +15,10 @@ publishDate: "2020-02-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Conditionally accepted at Economia, LACEA journal.** *Presentations (including scheduled): CUNY Graduate Center 2020, Missouri Valley Econ. Assoc. 2020, Stone Center 2020, WEAI 2021, Social Mobility and Economic Performance Workshop, MEA 2021, Centro de Estudios Espinosa Yglesias, Conference on Opportunities, Mobility, and Well-Being, SOLE 2021, CEA 2021, ECINEQ Meeting, LACEA 2021, SEA 2021, BCDE 2021, and AEA 2022 poster session*"
+publication: "**Forthcoming at Economia LACEA Journal.**"
 publication_short: ""
 
-abstract: In this paper, I estimate intergenerational mobility (IGM) in education using cross-sectional data from 91 censuses that span 24 countries in Latin America and the Caribbean (LAC) over half a century. I measure upward mobility as the likelihood of obtaining at least a primary education for individuals whose parents did not finish primary school, whereas downward mobility as the likelihood of failing to complete primary education for individuals whose parents completed at least primary school. In addition, I explore the geography of educational IGM using nearly 400 “provinces” (coarse administrative units similar to states in the U.S.) and more than 6,000 “districts” (fine administrative units similar to counties in the U.S.). I document wide cross-country and within-country heterogeneity. In LAC, the distance between the most and least upwardly mobile country is close to what has been recently documented in Africa, although the least mobile countries in Africa are less mobile than the least mobile in LAC. I document a declining trend in the mobility gap between urban and rural populations, but I do not find important differences by gender. Within countries, the level of mobility is highly correlated to the share of primary completion of the previous generation, which suggests a high level of inertia. In addition, upward (downward) mobility is negatively (positively) correlated to distance to the capital and the share of employment in agriculture, but positively (negatively) correlated to the share of employment in industry.
+abstract: This paper estimates intergenerational mobility in education using data from 91 censuses in 24 countries in Latin America and the Caribbean spanning over half a century. It measures upward mobility as the likelihood that individuals will complete one educational stage more than their parents (primary education for those whose parents did not finish primary school, or secondary education for those whose parents did not complete secondary school). It measures downward mobility as the likelihood that an individual will fail to complete a level of education (primary or secondary) that their parents did attain. In addition, the paper explores the geography of educational intergenerational mobility using nearly 400 “provinces” and more than 6,000 “districts,” finding substantial cross-country and within-country heterogeneity. It documents a decline in the mobility gap between urban and rural populations and small differences by gender. It also finds that upward mobility is increasing and downward mobility is decreasing over time. Within countries, the level of mobility correlates closely to the share of the preceding generation that completed primary school. In addition, upward mobility is negatively correlated with distance to the capital and the share of the workforce employed in agriculture, but is positively correlated with the share of the workforce employed in industry. The opposite is true of downward mobility.
 
 # Summary. An optional shortened abstract.
 # summary: Draft coming soon.
@@ -28,7 +28,7 @@ tags:
 - Educational persistence
 - Geography
 - Latin America and the Caribbean
-- WP
+- I
 featured: false
 
 # links:
