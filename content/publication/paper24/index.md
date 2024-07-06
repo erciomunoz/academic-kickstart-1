@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
-url_pdf: http://documents1.worldbank.org/curated/en/099743205062210873/pdf/IDU0392eb69908157044310a86b06c8a9982a005.pdf
+url_preprint: http://documents1.worldbank.org/curated/en/099743205062210873/pdf/IDU0392eb69908157044310a86b06c8a9982a005.pdf
 url_code: ''
 url_dataset: ''
 # url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
