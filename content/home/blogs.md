@@ -48,7 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. [The I in LGBTQI+: Socioeconomic and health disparities affecting intersex people in Mexico, with Melanie Saavedra and Dario Sansone](https://cepr.org/voxeu/columns/i-lgbtqi-socioeconomic-and-health-disparities-affecting-intersex-people-mexico)
+1. [¿Dónde encontrar datos e indicadores sociales sobre América Latina y el Caribe?, with Nadin Medellin, Luciana Etcheverry y Mayte Ysique](https://blogs.iadb.org/igualdad/es/datos-indicadores-sociales-america-latina-caribe/)
++ [The I in LGBTQI+: Socioeconomic and health disparities affecting intersex people in Mexico, with Melanie Saavedra and Dario Sansone](https://cepr.org/voxeu/columns/i-lgbtqi-socioeconomic-and-health-disparities-affecting-intersex-people-mexico)
 + [Diccionario de Diversidad: ¿Qué significa LGBTQ+?](https://blogs.iadb.org/igualdad/es/diccionario-de-diversidad-que-significa-lgbtq/)
 + [Resultados socioeconómicos y de salud de las personas intersexuales en México, con Melanie Saavedra y Dario Sansone](https://mexicocomovamos.mx/animal-politico/2024/06/resultados-socioeconomicos-y-de-salud-de-las-personas-intersexuales-en-mexico/)
 + [Socioeconomic and health outcomes of intersex people in Mexico, with Melanie Saavedra and Dario Sansone](https://www.theigc.org/blogs/socioeconomic-and-health-outcomes-intersex-people-mexico)
