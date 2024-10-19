@@ -1,5 +1,5 @@
 ---
-title: "How much should we trust non-probabilistic web-based surveys on LGBTI+ people? Evidence from Mexico"
+title: "How Much Should We Trust Non-probabilistic Web-based Surveys on LGBTI+ People? Evidence from Mexico"
 authors:
 - admin
 - Melanie Saavedra
