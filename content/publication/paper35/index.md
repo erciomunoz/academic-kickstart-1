@@ -1,5 +1,5 @@
 ---
-title: "Awareness and Support for the LGBTI+ Population: Experimental Evidence from an Informational Treatment in Mexico"
+title: "Awareness and Support for the LGBT+ Population: Experimental Evidence from an Informational Treatment in Mexico"
 authors:
 - Ariel Listo
 - admin
