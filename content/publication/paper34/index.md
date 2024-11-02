@@ -25,10 +25,10 @@ abstract:
 # summary: Draft coming soon.
 
 tags:
-- Inequality
-- LGBTQ+
-- Latin America
-- Intersex
+- Sibling correlations
+- Intergenerational mobility
+- Education
+- Family background
 - WP
 featured: false
 
