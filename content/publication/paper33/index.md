@@ -36,7 +36,7 @@ featured: false
 # - name: ""
 #   url: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
 # url_pdf: https://www.erciomunoz.org/files/Draft_IGM_Coresidence_bias.pdf
-# url_preprint: https://publications.iadb.org/en/lives-intersex-people-socio-economic-and-health-disparities-mexico
+url_preprint: https://publications.iadb.org/en/how-much-should-we-trust-non-probabilistic-web-based-surveys-lgbti-people-evidence-mexico
 url_code: ''
 url_dataset: ''
 # url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
