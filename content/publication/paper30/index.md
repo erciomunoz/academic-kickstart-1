@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: "**Submitted**"
 publication_short: ""
 
-abstract: 
+abstract: This paper studies socio-economic disparities in Mexico based on sexual orientation and gender identity using data from a nationally representative survey collected in 2021. It finds pronounced levels of self-reported discrimination and workplace rejection experienced by LGBTQ individuals. It also reports different rates of labor force participation and unemployment compared to heterosexual and cisgender counterparts. Additionally, heterogeneity analysis provides new insights into nuanced disparities within LGBTQ groups.
 
 # Summary. An optional shortened abstract.
 # summary: Draft coming soon.
@@ -29,6 +29,7 @@ tags:
 - Inequality
 - LGBTQ+
 - Latin America
+- Mexico
 - WP
 featured: false
 
