@@ -15,7 +15,7 @@ publishDate: "2020-02-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Economía LACEA Journal 23(1)**"
+publication: "**Economia LACEA Journal 23(1)**"
 publication_short: ""
 
 abstract: 
