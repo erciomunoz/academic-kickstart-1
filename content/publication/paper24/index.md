@@ -33,7 +33,7 @@ featured: false
 
 # links:
 # - name: ""
-# url: https://doi.org/10.31389/eco.441
+url_pdf: https://doi.org/10.31389/eco.441
 url_preprint: https://publications.iadb.org/en/geography-intergenerational-mobility-latin-america-and-caribbean
 url_code: ''
 url_dataset: ''
