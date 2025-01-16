@@ -10,7 +10,7 @@ active = true  # Activate this widget? true/false
 weight = 86  # Order that this section will appear.
 
 title = "Blogs"
-subtitle = ""
+subtitle = "English and Spanish"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
