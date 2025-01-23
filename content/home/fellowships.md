@@ -48,7 +48,9 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Travel grant to present at the Expanding LGBTI Economic Development and Empowerment in Rome
+1. ESW Grant, Inter-American Development Bank ($145K)
++ ESW Grant, Inter-American Development Bank ($48K)
++ Travel grant to present at the Expanding LGBTI Economic Development and Empowerment in Rome
 + ESW Grant, Inter-American Development Bank ($130K)
 + Travel grant to present at the ISI World Statistics Congress in Canada
 + Travel grant to present at the Data-Intensive Research Conference in Minneapolis 
