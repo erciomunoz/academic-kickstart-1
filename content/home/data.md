@@ -6,7 +6,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 87 # Order that this section will appear.
 
 title = "Data"
@@ -50,5 +50,8 @@ subtitle = ""
 
 Here are some data sets that I have used in my research and may be useful for someone interested in the same topics.
 
+***The Geography of Intergenerational Mobility in Latin America and the Caribbean (Munoz, 2024)*** ([data and codes](https://www.erciomunoz.org/files/Munoz2024_data_and_codes.zip) [paper](https://doi.org/10.31389/eco.441))
+
+This command implements Korinek, Mistiaen and Ravallion (2007). This command allows the user to estimate a micro compliance function using groups' nonresponse rates, which can be used to correct survey weights for unit nonresponse. To install it within Stata type "net install st0634.pkg".
 
 
