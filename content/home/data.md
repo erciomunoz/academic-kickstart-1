@@ -50,7 +50,7 @@ subtitle = ""
 
 Here are some data sets that I have used in my research and may be useful for someone interested in the same topics.
 
-***The Geography of Intergenerational Mobility in Latin America and the Caribbean (Munoz, 2024)*** ([data and codes](https://www.erciomunoz.org/files/Munoz2024_data_and_codes.zip) [paper](https://doi.org/10.31389/eco.441))
+***The Geography of Intergenerational Mobility in Latin America and the Caribbean*** ([data and codes](https://www.erciomunoz.org/files/Munoz2024_data_and_codes.zip) [paper](https://doi.org/10.31389/eco.441))
 
 
 
