@@ -36,7 +36,7 @@ featured: false
 url_pdf: https://doi.org/10.31389/eco.441
 url_preprint: https://publications.iadb.org/en/geography-intergenerational-mobility-latin-america-and-caribbean
 url_code: ''
-url_dataset: ''
+url_dataset: https://www.erciomunoz.org/files/Munoz2024_data_and_codes.zip
 # url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
 # url_project: https://erciomunoz.shinyapps.io/IGM_LAC/
 # url_slides: https://www.erciomunoz.org/files/Slides___IGM_in_LAC.pdf
