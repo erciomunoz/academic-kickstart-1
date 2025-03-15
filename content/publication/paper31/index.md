@@ -17,7 +17,7 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "****"
+publication: ""
 publication_short: ""
 
 abstract: 
@@ -36,6 +36,7 @@ featured: false
 # - name: ""
 #   url: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
 # url_pdf: https://www.erciomunoz.org/files/Draft_IGM_Coresidence_bias.pdf
+url_preprint: https://arxiv.org/pdf/2503.09846
 url_code: ''
 url_dataset: ''
 # url_poster: https://www.erciomunoz.org/files/Poster_IGM_LAC.pdf
