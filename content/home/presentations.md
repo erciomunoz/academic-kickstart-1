@@ -48,7 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. December 2024: ECINEQ-LAC Meeting
+1. July 2025: Eleventh ECINEQ Meeting
++ December 2024: ECINEQ-LAC Meeting
 + November 2024: LACEA Annual Meeting
 + September 2024: 5th Meeting of the Society of Family and Gender Economics
 + July 2024: Expanding LGBTI Economic Development and Empowerment Workshop
