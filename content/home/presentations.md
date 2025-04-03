@@ -48,7 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. July 2025: Eleventh ECINEQ Meeting
+1. October 2025: IARIW-World Bank Special Conference 'Improving Well-being Measurement in Data-Challenged Environments in Developing Countries for Better Evidence-based Policies'
++ July 2025: Eleventh ECINEQ Meeting
 + December 2024: ECINEQ-LAC Meeting
 + November 2024: LACEA Annual Meeting
 + September 2024: 5th Meeting of the Society of Family and Gender Economics
