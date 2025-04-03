@@ -48,7 +48,8 @@ subtitle = "English and Spanish"
  css_class = ""
 +++
 
-1. [How to improve statistics on diverse population groups through communities of practice?, with Luis González, Luciana Etcheverry, and Nadin Medellín](https://blogs.iadb.org/igualdad/en/improve-statistics-diverse-population-groups-communities-of-practice/)
+1. [Time-Use Data: An Important Tool for Equality in Latin America and the Caribbean](https://blogs.iadb.org/igualdad/time-use-data-an-important-tool-for-equality-in-latin-america-and-the-caribbean/)
++ [How to improve statistics on diverse population groups through communities of practice?, with Luis González, Luciana Etcheverry, and Nadin Medellín](https://blogs.iadb.org/igualdad/en/improve-statistics-diverse-population-groups-communities-of-practice/)
 + [Closing the Gap - Latin America's journey towards LGBTQ+ equality and inclusion, with Melanie Saavedra and Dario Sansone](https://www.erciomunoz.org/files/RES-Newsletter-207-Digital-Edition.pdf)
 + [¿Dónde encontrar datos e indicadores sociales sobre América Latina y el Caribe?, with Nadin Medellin, Luciana Etcheverry y Mayte Ysique](https://blogs.iadb.org/igualdad/es/datos-indicadores-sociales-america-latina-caribe/)
 + [The I in LGBTQI+: Socioeconomic and health disparities affecting intersex people in Mexico, with Melanie Saavedra and Dario Sansone](https://cepr.org/voxeu/columns/i-lgbtqi-socioeconomic-and-health-disparities-affecting-intersex-people-mexico)
