@@ -17,7 +17,7 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Conditionally accepted.** Presentations (including scheduled): AEA Annual Meeting 2024 and Expanding LGBTI Economic Development and Empowerment Workshop"
+publication: "**Conditionally accepted at Feminist Economics.**"
 publication_short: ""
 
 abstract: 
