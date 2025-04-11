@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 21  # Order that this section will appear.
 
 title = "Publications"
-# subtitle = "Central Bank of Chile"
+subtitle = "Including accepted and forthcoming"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
