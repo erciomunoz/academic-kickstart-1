@@ -17,7 +17,7 @@ publishDate: "2024-11-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**PNAS Nexus, forthcoming**"
+publication: "**Forthcoming at PNAS Nexus**"
 publication_short: ""
 
 abstract: 
