@@ -4,7 +4,7 @@ authors:
 - admin
 - Dario Sansone
 - Mayte Ysique
-date: "2024-12-12T01:00:00Z"
+date: "2025-01-01T01:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
