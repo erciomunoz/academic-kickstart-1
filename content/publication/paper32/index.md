@@ -17,7 +17,7 @@ publishDate: "2024-11-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Forthcoming at PNAS Nexus**"
+publication: "**PNAS Nexus**"
 publication_short: ""
 
 abstract: 
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: https://www.erciomunoz.org/files/Draft_IGM_LAC.pdf
-# url_pdf: https://www.erciomunoz.org/files/Draft_IGM_Coresidence_bias.pdf
+url_pdf: https://doi.org/10.1093/pnasnexus/pgaf126
 url_preprint: https://publications.iadb.org/en/lives-intersex-people-socio-economic-and-health-disparities-mexico
 url_code: https://www.erciomunoz.org/files/MSS_replication.zip
 url_dataset: ''
