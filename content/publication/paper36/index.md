@@ -1,5 +1,5 @@
 ---
-title: "Intergenerational Income Mobility around the World: A New Database"
+title: "Intergenerational Income Mobility around the World"
 authors:
 - admin
 - Roy van der Weide
