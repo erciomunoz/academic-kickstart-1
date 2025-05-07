@@ -2,7 +2,7 @@
 title: "Intergenerational Educational Mobility within Chile"
 authors:
 - admin
-date: "2020-12-02T00:00:00Z"
+date: "2025-02-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,10 +12,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Revision requested**"
+publication: "**Estudios de Economia**"
 publication_short: ""
 
 abstract: I provide estimates of intergenerational mobility (IGM) in education at a disaggregated geographic level for Chile, a country with high school-level stratification by socioeconomic status and a decentralized administration of public schools. I document wide variation across municipalities. Relative mobility is correlated to the number of doctors, the number of students per teacher, and earnings inequality. Using a LASSO, I find that the share of students enrolled in public schools, the number of students per teacher, population density, and municipal budget are the strongest predictors of IGM. I also document within-country variability in how parental education is associated with other children’s outcomes.
@@ -27,7 +27,7 @@ tags:
 - Intergenerational mobility in education
 - Geography
 - Chile
-- WP
+- I
 featured: false
 
 # links:
