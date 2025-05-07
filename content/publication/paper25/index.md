@@ -34,7 +34,7 @@ featured: false
 # - name: ""
 #   url: ""
 # url_pdf: [https://www.erciomunoz.org/files/Draft_IGM_Chile.pdf](http://dx.doi.org/10.18235/0013513)
-url_preprint: [https://www.erciomunoz.org/files/Draft_IGM_Chile.pdf](http://dx.doi.org/10.18235/0013513)
+url_preprint: https://publications.iadb.org/en/intergenerational-educational-mobility-within-chile
 url_code: ''
 url_dataset: ''
 url_poster: ''
