@@ -15,10 +15,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Revision requested.** *Presentations: CUNY Graduate Center 2020, and WEAI 2021*"
+publication: "**Revision requested.**"
 publication_short: ""
 
-abstract: I estimate intergenerational mobility (IGM) in education at a disaggregated geographic level in Chile. I document wide variation across more than three hundred communes in eight measures of IGM. Relative mobility is correlated to the number of doctors, the ratio of students per teacher, and to labor earnings inequality, especially in the upper tail. Using a LASSO, I find that the share of students enrolled in public schools, the number of students per teacher, population density, and municipal budget are the strongest predictors of IGM. I also document within country variability in how parental education affects other child’s outcomes.
+abstract: I provide estimates of intergenerational mobility (IGM) in education at a disaggregated geographic level for Chile, a country with high school-level stratification by socioeconomic status and a decentralized administration of public schools. I document wide variation across municipalities. Relative mobility is correlated to the number of doctors, the number of students per teacher, and earnings inequality. Using a LASSO, I find that the share of students enrolled in public schools, the number of students per teacher, population density, and municipal budget are the strongest predictors of IGM. I also document within-country variability in how parental education is associated with other children’s outcomes.
 
 # Summary. An optional shortened abstract.
 summary: Draft coming soon.
