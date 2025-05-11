@@ -4,7 +4,7 @@ authors:
 - admin
 - Melanie Saavedra
 - Dario Sansone
-date: "2025-04-04T01:00:00Z"
+date: "2025-01-01T01:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: "2024-11-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**PNAS Nexus**"
+publication: "**PNAS Nexus, 4(5)**"
 publication_short: ""
 
 abstract: 
